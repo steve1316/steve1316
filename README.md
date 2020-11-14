@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve1316&label=Profile%20views&color=0e75b6&style=flat" alt="steve1316" /> </p>
 
-- 🔭 I’m currently working on [Girls' Frontline Database](https://github.com/steve1316/gfl-database)
+- 🔭 I’m currently working on [Girls' Frontline Database](https://github.com/steve1316/gfl-database) and [Granblue Automation](https://github.com/steve1316/granblue-automation-pyautogui)
 
-- 🌱 I’m currently learning **Kotlin and finishing up my B.S. on Computer Science**
+- 🌱 I’m currently **finishing up my B.S. on Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/steve1316](https://github.com/steve1316)
 
