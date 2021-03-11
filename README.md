@@ -22,6 +22,8 @@
 <a href="https://linkedin.com/in/steve-tu-370ba219b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="steve-tu-370ba219b" height="30" width="40" /></a>
 </p>
 
+<!--START_SECTION:activity-->
+
 ## My GitHub Stats:
 
 <!--START_SECTION:waka-->
