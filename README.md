@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve1316&label=Profile%20views&color=0e75b6&style=flat" alt="steve1316" /> </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## 🔭 My featured projects are:
 - React implementation of a wiki database: [Girls' Frontline Database](https://github.com/steve1316/gfl-database)
 - Python automation program using various OCR technologies: [Granblue Automation](https://github.com/steve1316/granblue-automation-pyautogui)
