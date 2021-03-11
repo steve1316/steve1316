@@ -1,26 +1,24 @@
 <h1 align="center">Hi, my name is Steve Tu! <img src="wave.gif" alt="Wave" width="30px" /></h1>
-<h3 align="center">A passionate web and software developer from San Francisco State University!</h3>
+<h3 align="center">A passionate web and software developer from San Francisco State University with a major in Computer Science!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve1316&label=Profile%20views&color=0e75b6&style=flat" alt="steve1316" /> </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+### 📫 How to reach me: **tustev00@gmail.com**
 
 ## 🔭 My featured projects are:
 - React implementation of a wiki database: [Girls' Frontline Database](https://github.com/steve1316/gfl-database)
 - Python automation program using various OCR technologies: [Granblue Automation](https://github.com/steve1316/granblue-automation-pyautogui)
 - Its Android port written in Kotlin: [Granblue Automation Android](https://github.com/steve1316/granblue-automation-android)
 
-### 🌱 Majored in Computer Science at San Francisco State University.
-
-### 👨‍💻 All of my projects are available at [https://github.com/steve1316](https://github.com/steve1316)
-
-### 📫 How to reach me: **tustev00@gmail.com**
-
 ## Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/steve-tu-370ba219b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="steve-tu-370ba219b" height="30" width="40" /></a>
 </p>
+
+## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#16](https://github.com/steve1316/granblue-automation-pyautogui/pull/16) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
