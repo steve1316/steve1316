@@ -23,6 +23,9 @@
 ### My GitHub Stats:
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steve1316&show_icons=true&locale=en&layout=compact&theme=radical" alt="steve1316" /></p>
