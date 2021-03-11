@@ -32,7 +32,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Kotlin   9 mins          ████████████████████▓░░░░   83.22 % 
+Python   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 ```
 <!--END_SECTION:waka-->
 
