@@ -3,30 +3,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve1316&label=Profile%20views&color=0e75b6&style=flat" alt="steve1316" /> </p>
 
-> 🔭 My featured projects are:
+## 🔭 My featured projects are:
 - React implementation of a wiki database: [Girls' Frontline Database](https://github.com/steve1316/gfl-database)
 - Python automation program using various OCR technologies: [Granblue Automation](https://github.com/steve1316/granblue-automation-pyautogui)
 - Its Android port written in Kotlin: [Granblue Automation Android](https://github.com/steve1316/granblue-automation-android).
 
-> 🌱 Majored in Computer Science at San Francisco State University.
+### 🌱 Majored in Computer Science at San Francisco State University.
 
-> 👨‍💻 All of my projects are available at [https://github.com/steve1316](https://github.com/steve1316)
+### 👨‍💻 All of my projects are available at [https://github.com/steve1316](https://github.com/steve1316)
 
-> 📫 How to reach me: **tustev00@gmail.com**
+### 📫 How to reach me: **tustev00@gmail.com**
 
-### Connect with me:
+## Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/steve-tu-370ba219b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="steve-tu-370ba219b" height="30" width="40" /></a>
 </p>
 
-### My GitHub Stats:
+## My GitHub Stats:
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steve1316&show_icons=true&locale=en&layout=compact&theme=radical" alt="steve1316" /></p>
 
