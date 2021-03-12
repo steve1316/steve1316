@@ -31,6 +31,13 @@
 ## My GitHub Stats:
 
 <!--START_SECTION:waka-->
+```text
+Week: 04 March, 2021 - 11 March, 2021
+
+Kotlin   5 hrs 52 mins   ████████████████████▒░░░░   81.95 % 
+Python   57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+XML      19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+```
 <!--END_SECTION:waka-->
 
 ---
