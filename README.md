@@ -31,6 +31,10 @@
 ## My GitHub Stats:
 
 <!--START_SECTION:waka-->
+```text
+Kotlin   9 mins          ████████████████████▓░░░░   83.22 % 
+Python   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+```
 <!--END_SECTION:waka-->
 
 ---
