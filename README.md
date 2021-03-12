@@ -21,21 +21,10 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/steve1316/granblue-automation-pyautogui/pull/16) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. 💪 Opened PR [#16](https://github.com/steve1316/granblue-automation-pyautogui/pull/16) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. ❗️ Closed issue [#15](https://github.com/steve1316/granblue-automation-pyautogui/issues/15) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. 🗣 Commented on [#15](https://github.com/steve1316/granblue-automation-pyautogui/issues/15) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. 🗣 Commented on [#15](https://github.com/steve1316/granblue-automation-pyautogui/issues/15) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-<!--END_SECTION:activity-->
 
 ## My GitHub Stats:
 
 <!--START_SECTION:waka-->
-```text
-Kotlin   9 mins          ████████████████████▓░░░░   83.22 % 
-Python   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-```
-<!--END_SECTION:waka-->
 
 ---
 
