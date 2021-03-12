@@ -1,15 +1,15 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "*/60 * * * *"
-
+    - cron: '*/60 * * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: f7ad6af8-9a00-43e9-9e73-1e534f73e68d
+          GH_TOKEN: a67b9061b5d6e18cef10c896b818a1d4051ca6e4
