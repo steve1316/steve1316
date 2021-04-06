@@ -21,11 +21,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/steve1316/granblue-automation-pyautogui/issues/21) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. 🗣 Commented on [#23](https://github.com/steve1316/granblue-automation-pyautogui/issues/23) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. ❗️ Closed issue [#22](https://github.com/steve1316/granblue-automation-pyautogui/issues/22) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. 🗣 Commented on [#20](https://github.com/steve1316/granblue-automation-pyautogui/issues/20) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. 🗣 Commented on [#22](https://github.com/steve1316/granblue-automation-pyautogui/issues/22) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. 💪 Opened PR [#24](https://github.com/steve1316/granblue-automation-pyautogui/pull/24) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 🗣 Commented on [#21](https://github.com/steve1316/granblue-automation-pyautogui/issues/21) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. 🗣 Commented on [#23](https://github.com/steve1316/granblue-automation-pyautogui/issues/23) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. ❗️ Closed issue [#22](https://github.com/steve1316/granblue-automation-pyautogui/issues/22) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. 🗣 Commented on [#20](https://github.com/steve1316/granblue-automation-pyautogui/issues/20) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
