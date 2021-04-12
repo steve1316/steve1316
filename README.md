@@ -21,10 +21,10 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/steve1316/granblue-automation-pyautogui/issues/29) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. 🗣 Commented on [#29](https://github.com/steve1316/granblue-automation-pyautogui/issues/29) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. 🗣 Commented on [#29](https://github.com/steve1316/granblue-automation-pyautogui/issues/29) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. 🗣 Commented on [#29](https://github.com/steve1316/granblue-automation-pyautogui/issues/29) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. 🗣 Commented on [#30](https://github.com/steve1316/granblue-automation-pyautogui/issues/30) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. ❗️ Closed issue [#26](https://github.com/steve1316/granblue-automation-pyautogui/issues/26) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. ❗️ Closed issue [#21](https://github.com/steve1316/granblue-automation-pyautogui/issues/21) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. ❗️ Closed issue [#29](https://github.com/steve1316/granblue-automation-pyautogui/issues/29) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 5. 🗣 Commented on [#29](https://github.com/steve1316/granblue-automation-pyautogui/issues/29) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
