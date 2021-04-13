@@ -21,11 +21,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/steve1316/granblue-automation-android/issues/1) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-2. 🗣 Commented on [#31](https://github.com/steve1316/granblue-automation-pyautogui/issues/31) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. 🗣 Commented on [#1](https://github.com/steve1316/granblue-automation-android/issues/1) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. 🗣 Commented on [#30](https://github.com/steve1316/granblue-automation-pyautogui/issues/30) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. ❗️ Closed issue [#26](https://github.com/steve1316/granblue-automation-pyautogui/issues/26) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Closed issue [#1](https://github.com/steve1316/granblue-automation-android/issues/1) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+2. 🗣 Commented on [#1](https://github.com/steve1316/granblue-automation-android/issues/1) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+3. 🗣 Commented on [#31](https://github.com/steve1316/granblue-automation-pyautogui/issues/31) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. 🗣 Commented on [#1](https://github.com/steve1316/granblue-automation-android/issues/1) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+5. 🗣 Commented on [#30](https://github.com/steve1316/granblue-automation-pyautogui/issues/30) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
