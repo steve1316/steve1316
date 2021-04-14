@@ -32,7 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 April, 2021 - 12 April, 2021
+Week: 06 April, 2021 - 13 April, 2021
 
 Python     26 hrs 51 mins  ██████████████████▒░░░░░░   72.77 % 
 Kotlin     8 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
