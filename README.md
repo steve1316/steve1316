@@ -34,8 +34,8 @@
 ```text
 Week: 15 April, 2021 - 22 April, 2021
 
-Python     5 hrs 56 mins   ████████████████████████▒   97.53 % 
-Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Python     3 hrs 47 mins   ████████████████████████░   96.18 % 
+Markdown   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 ```
 <!--END_SECTION:waka-->
 
