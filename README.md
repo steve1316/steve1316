@@ -8,9 +8,10 @@
 ### 📫 How to reach me: **tustev00@gmail.com**
 
 ## 🔭 My featured projects are:
-- React implementation of a wiki database: [Girls' Frontline Database](https://github.com/steve1316/gfl-database)
+- ReactJS implementation of a wiki database: [Girls' Frontline Database](https://github.com/steve1316/gfl-database)
 - Python automation program using various OCR technologies: [Granblue Automation](https://github.com/steve1316/granblue-automation-pyautogui)
 - Its Android port written in Kotlin: [Granblue Automation Android](https://github.com/steve1316/granblue-automation-android)
+- Template Project of GAA's CV Bot Framework: [Android CV Bot Template](https://github.com/steve1316/android-cv-bot-template)
 
 ## Connect with me:
 
