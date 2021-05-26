@@ -33,7 +33,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 May, 2021 - 24 May, 2021
+Week: 18 May, 2021 - 25 May, 2021
 
 Kotlin     4 hrs 41 mins   ██████████████████▒░░░░░░   72.97 % 
 QML        43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
