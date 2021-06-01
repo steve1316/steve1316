@@ -33,7 +33,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 May, 2021 - 30 May, 2021
+Week: 24 May, 2021 - 31 May, 2021
 
 JavaScript   8 hrs 7 mins    █████████████████▒░░░░░░░   68.68 % 
 Kotlin       1 hr 59 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.78 % 
