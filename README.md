@@ -24,11 +24,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/steve1316/uma-android-training-helper/issues/3) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
-2. 🎉 Merged PR [#2](https://github.com/steve1316/uma-android-training-helper/pull/2) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
-3. 🎉 Merged PR [#1](https://github.com/steve1316/uma-android-training-helper/pull/1) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
-4. 🗣 Commented on [#45](https://github.com/steve1316/granblue-automation-pyautogui/issues/45) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. ❗️ Closed issue [#44](https://github.com/steve1316/granblue-automation-pyautogui/issues/44) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Closed issue [#3](https://github.com/steve1316/uma-android-training-helper/issues/3) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
+2. 🗣 Commented on [#3](https://github.com/steve1316/uma-android-training-helper/issues/3) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
+3. ❗️ Opened issue [#3](https://github.com/steve1316/uma-android-training-helper/issues/3) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
+4. 🎉 Merged PR [#2](https://github.com/steve1316/uma-android-training-helper/pull/2) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
+5. 🎉 Merged PR [#1](https://github.com/steve1316/uma-android-training-helper/pull/1) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
