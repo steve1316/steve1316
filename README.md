@@ -8,7 +8,7 @@
 ### 📫 How to reach me: **tustev00@gmail.com**
 
 ## 🔭 My featured projects are:
-- ReactJS implementation of a wiki: [Girls' Frontline Wiki](https://github.com/steve1316/gfl-reactjs-wiki)
+- ReactJS implementation of a wiki: [Girls' Frontline ReactJS Wiki](https://github.com/steve1316/gfl-reactjs-wiki)
 - Python automation program using various CV technologies: [Granblue Automation](https://github.com/steve1316/granblue-automation-pyautogui)
 - Its Android port written in Kotlin: [Granblue Automation Android](https://github.com/steve1316/granblue-automation-android)
 - ReactJS website aggregating statistics by users of GA and GAA hosted in AWS DB: [Granblue Automation Statistics](https://github.com/steve1316/granblue-automation-aws-statistics)
