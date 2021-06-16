@@ -24,11 +24,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/steve1316/uma-android-training-helper/issues/3) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
-2. 🗣 Commented on [#3](https://github.com/steve1316/uma-android-training-helper/issues/3) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
-3. ❗️ Opened issue [#3](https://github.com/steve1316/uma-android-training-helper/issues/3) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
-4. 🎉 Merged PR [#2](https://github.com/steve1316/uma-android-training-helper/pull/2) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
-5. 🎉 Merged PR [#1](https://github.com/steve1316/uma-android-training-helper/pull/1) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
+1. 🗣 Commented on [#46](https://github.com/steve1316/granblue-automation-pyautogui/issues/46) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. ❗️ Closed issue [#45](https://github.com/steve1316/granblue-automation-pyautogui/issues/45) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. 🗣 Commented on [#45](https://github.com/steve1316/granblue-automation-pyautogui/issues/45) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. ❗️ Closed issue [#3](https://github.com/steve1316/uma-android-training-helper/issues/3) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
+5. 🗣 Commented on [#3](https://github.com/steve1316/uma-android-training-helper/issues/3) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
