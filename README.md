@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 June, 2021 - 20 June, 2021
+Week: 14 June, 2021 - 21 June, 2021
 
 JavaScript   2 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   40.98 % 
 QML          1 hr 25 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.47 % 
