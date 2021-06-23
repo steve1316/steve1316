@@ -35,13 +35,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 June, 2021 - 22 June, 2021
+Week: 16 June, 2021 - 22 June, 2021
 
-Kotlin       5 hrs 18 mins   ██████████░░░░░░░░░░░░░░░   39.88 % 
-Python       2 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-JavaScript   2 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.16 % 
-QML          1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Groovy       48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Kotlin       7 hrs 15 mins   ███████████▓░░░░░░░░░░░░░   46.13 % 
+Python       2 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.33 % 
+JavaScript   2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+QML          1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Groovy       51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 <!--END_SECTION:waka-->
 
