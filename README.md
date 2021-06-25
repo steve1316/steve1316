@@ -24,11 +24,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/steve1316/granblue-automation-pyautogui/issues/47) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. 🎉 Merged PR [#4](https://github.com/steve1316/uma-android-training-helper/pull/4) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
-3. 🗣 Commented on [#46](https://github.com/steve1316/granblue-automation-pyautogui/issues/46) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Closed issue [#47](https://github.com/steve1316/granblue-automation-pyautogui/issues/47) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 🗣 Commented on [#47](https://github.com/steve1316/granblue-automation-pyautogui/issues/47) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. 🎉 Merged PR [#4](https://github.com/steve1316/uma-android-training-helper/pull/4) in [steve1316/uma-android-training-helper](https://github.com/steve1316/uma-android-training-helper)
 4. 🗣 Commented on [#46](https://github.com/steve1316/granblue-automation-pyautogui/issues/46) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. ❗️ Closed issue [#45](https://github.com/steve1316/granblue-automation-pyautogui/issues/45) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. 🗣 Commented on [#46](https://github.com/steve1316/granblue-automation-pyautogui/issues/46) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
