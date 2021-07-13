@@ -14,7 +14,7 @@
 - ReactJS website aggregating statistics by users of GA and GAA hosted in AWS DB: [Granblue Automation Statistics](https://github.com/steve1316/granblue-automation-aws-statistics)
 - Template Project of GAA's CV Bot Framework: [Android CV Bot Template](https://github.com/steve1316/android-cv-bot-template)
 - Android tool in Kotlin to help Uma Musume players with Training Event choices: [Uma Android Training Helper](https://github.com/steve1316/uma-android-training-helper)
-- Android automation bot in Kotlin to fully automate the Uma Musume Pretty Derby game: [Uma Android Automation(https://github.com/steve1316/uma-android-automation)
+- Android automation bot in Kotlin to fully automate the Uma Musume Pretty Derby game: [Uma Android Automation](https://github.com/steve1316/uma-android-automation)
 
 ## Connect with me:
 
