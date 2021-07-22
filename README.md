@@ -25,11 +25,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/steve1316/granblue-automation-android/pull/3) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-2. 🎉 Merged PR [#51](https://github.com/steve1316/granblue-automation-pyautogui/pull/51) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. 💪 Opened PR [#3](https://github.com/steve1316/granblue-automation-android/pull/3) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. 💪 Opened PR [#51](https://github.com/steve1316/granblue-automation-pyautogui/pull/51) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. 🗣 Commented on [#49](https://github.com/steve1316/granblue-automation-pyautogui/issues/49) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. 🗣 Commented on [#52](https://github.com/steve1316/granblue-automation-pyautogui/issues/52) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 🎉 Merged PR [#3](https://github.com/steve1316/granblue-automation-android/pull/3) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+3. 🎉 Merged PR [#51](https://github.com/steve1316/granblue-automation-pyautogui/pull/51) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. 💪 Opened PR [#3](https://github.com/steve1316/granblue-automation-android/pull/3) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+5. 💪 Opened PR [#51](https://github.com/steve1316/granblue-automation-pyautogui/pull/51) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
