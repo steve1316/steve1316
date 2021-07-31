@@ -36,7 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2021 - 29 July, 2021
+Week: 24 July, 2021 - 30 July, 2021
 
 Kotlin   7 hrs 7 mins    ███████████████████████▒░   93.40 % 
 Python   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
