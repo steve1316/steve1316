@@ -34,7 +34,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 August, 2021 - 28 August, 2021
+Week: 23 August, 2021 - 29 August, 2021
 
 Python   12 hrs 36 mins  █████████████▒░░░░░░░░░░░   53.46 % 
 Kotlin   8 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.46 % 
