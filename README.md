@@ -34,7 +34,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2021 - 05 October, 2021
+Week: 30 September, 2021 - 06 October, 2021
 
 Kotlin   2 hrs 32 mins   ████████████████░░░░░░░░░   64.59 % 
 JSON     33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 % 
