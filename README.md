@@ -23,11 +23,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/steve1316/granblue-automation-android/issues/5) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-2. 🗣 Commented on [#7](https://github.com/steve1316/granblue-automation-android/issues/7) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-3. 🗣 Commented on [#7](https://github.com/steve1316/granblue-automation-android/issues/7) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. 💪 Opened PR [#87](https://github.com/steve1316/granblue-automation-pyautogui/pull/87) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. 🗣 Commented on [#86](https://github.com/steve1316/granblue-automation-pyautogui/issues/86) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. 🗣 Commented on [#8](https://github.com/steve1316/granblue-automation-android/issues/8) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+2. 🗣 Commented on [#8](https://github.com/steve1316/granblue-automation-android/issues/8) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+3. 🗣 Commented on [#8](https://github.com/steve1316/granblue-automation-android/issues/8) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+4. ❗️ Closed issue [#5](https://github.com/steve1316/granblue-automation-android/issues/5) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+5. 🗣 Commented on [#7](https://github.com/steve1316/granblue-automation-android/issues/7) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
