@@ -34,7 +34,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
 Kotlin   6 hrs 48 mins   ██████████████████▒░░░░░░   73.50 % 
 Python   1 hr 50 mins    █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
