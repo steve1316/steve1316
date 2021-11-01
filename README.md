@@ -34,7 +34,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
 TypeScript   10 hrs 33 mins  ████████████▒░░░░░░░░░░░░   48.71 % 
 Python       5 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.19 % 
