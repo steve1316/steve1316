@@ -23,11 +23,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/steve1316/granblue-automation-android/issues/8) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-2. 🗣 Commented on [#8](https://github.com/steve1316/granblue-automation-android/issues/8) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-3. 🗣 Commented on [#96](https://github.com/compulim/react-scroll-to-bottom/issues/96) in [compulim/react-scroll-to-bottom](https://github.com/compulim/react-scroll-to-bottom)
-4. 🗣 Commented on [#89](https://github.com/steve1316/granblue-automation-pyautogui/issues/89) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. 🗣 Commented on [#88](https://github.com/steve1316/granblue-automation-pyautogui/issues/88) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Closed issue [#90](https://github.com/steve1316/granblue-automation-pyautogui/issues/90) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 🗣 Commented on [#90](https://github.com/steve1316/granblue-automation-pyautogui/issues/90) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. ❗️ Closed issue [#82](https://github.com/steve1316/granblue-automation-pyautogui/issues/82) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. 🗣 Commented on [#82](https://github.com/steve1316/granblue-automation-pyautogui/issues/82) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. ❗️ Closed issue [#79](https://github.com/steve1316/granblue-automation-pyautogui/issues/79) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
