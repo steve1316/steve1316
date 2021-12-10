@@ -32,7 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
 JavaScript   8 hrs 40 mins   ███████████████████▓░░░░░   79.17 % 
 TypeScript   1 hr 44 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
