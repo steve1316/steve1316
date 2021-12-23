@@ -32,7 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2021 - 21 December, 2021
+Week: 16 December, 2021 - 22 December, 2021
 
 Kotlin       2 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 % 
 SCSS         1 hr 54 mins    █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
