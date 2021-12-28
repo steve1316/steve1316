@@ -32,13 +32,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2021 - 26 December, 2021
+Week: 21 December, 2021 - 27 December, 2021
 
-TypeScript   15 hrs 55 mins  ███████████████▓░░░░░░░░░   62.21 % 
-Python       3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Kotlin       2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-SCSS         1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-JSON         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+TypeScript   23 hrs 46 mins  ██████████████████▒░░░░░░   72.96 % 
+Python       3 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+SCSS         1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Kotlin       1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+JSON         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 <!--END_SECTION:waka-->
 
