@@ -32,7 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
 TypeScript   25 hrs 58 mins  ██████████████████░░░░░░░   72.48 % 
 Groovy       3 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
