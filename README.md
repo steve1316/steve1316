@@ -21,11 +21,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/steve1316/granblue-automation-android/pull/12) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-2. ❗️ Closed issue [#11](https://github.com/steve1316/granblue-automation-android/issues/11) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-3. 🗣 Commented on [#11](https://github.com/steve1316/granblue-automation-android/issues/11) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. ❗️ Opened issue [#41](https://github.com/MobileReality/react-native-select-pro/issues/41) in [MobileReality/react-native-select-pro](https://github.com/MobileReality/react-native-select-pro)
-5. ❗️ Closed issue [#98](https://github.com/steve1316/granblue-automation-pyautogui/issues/98) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. 🗣 Commented on [#99](https://github.com/steve1316/granblue-automation-pyautogui/issues/99) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 💪 Opened PR [#12](https://github.com/steve1316/granblue-automation-android/pull/12) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+3. ❗️ Closed issue [#11](https://github.com/steve1316/granblue-automation-android/issues/11) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+4. 🗣 Commented on [#11](https://github.com/steve1316/granblue-automation-android/issues/11) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+5. ❗️ Opened issue [#41](https://github.com/MobileReality/react-native-select-pro/issues/41) in [MobileReality/react-native-select-pro](https://github.com/MobileReality/react-native-select-pro)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
