@@ -32,7 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
 Java         7 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.55 % 
 TypeScript   6 hrs 57 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.72 % 
