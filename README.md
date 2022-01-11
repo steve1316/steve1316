@@ -32,7 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2022 - 09 January, 2022
+Week: 04 January, 2022 - 10 January, 2022
 
 TypeScript   10 hrs 41 mins  █████████████░░░░░░░░░░░░   52.50 % 
 Kotlin       3 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 % 
