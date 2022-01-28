@@ -32,13 +32,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2022 - 26 January, 2022
+Week: 21 January, 2022 - 27 January, 2022
 
-Python       7 hrs 15 mins   █████████████▓░░░░░░░░░░░   54.17 % 
-TypeScript   4 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   35.95 % 
-Kotlin       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-SCSS         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Python       8 hrs 41 mins   █████████████▒░░░░░░░░░░░   53.17 % 
+TypeScript   5 hrs 31 mins   ████████▒░░░░░░░░░░░░░░░░   33.82 % 
+Kotlin       1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+JSON         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+SCSS         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 <!--END_SECTION:waka-->
 
