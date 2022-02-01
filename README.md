@@ -34,11 +34,11 @@
 ```text
 Week: 25 January, 2022 - 31 January, 2022
 
-Kotlin       7 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   38.58 % 
-TypeScript   5 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.10 % 
-Python       4 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.09 % 
-JSON         1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-JavaScript   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Kotlin       7 hrs 56 mins   ██████████▒░░░░░░░░░░░░░░   41.83 % 
+Python       4 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.18 % 
+TypeScript   4 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
+JSON         1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+JavaScript   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 ```
 <!--END_SECTION:waka-->
 
