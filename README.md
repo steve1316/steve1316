@@ -21,11 +21,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/steve1316/granblue-automation-android/issues/14) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-2. ❗️ Closed issue [#14](https://github.com/steve1316/granblue-automation-android/issues/14) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-3. 🗣 Commented on [#110](https://github.com/steve1316/granblue-automation-pyautogui/issues/110) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. 🗣 Commented on [#110](https://github.com/steve1316/granblue-automation-pyautogui/issues/110) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. ❗️ Closed issue [#101](https://github.com/steve1316/granblue-automation-pyautogui/issues/101) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. 🗣 Commented on [#15](https://github.com/steve1316/granblue-automation-android/issues/15) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+2. 🎉 Merged PR [#16](https://github.com/steve1316/granblue-automation-android/pull/16) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+3. ❗️ Closed issue [#15](https://github.com/steve1316/granblue-automation-android/issues/15) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+4. 💪 Opened PR [#16](https://github.com/steve1316/granblue-automation-android/pull/16) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+5. 🗣 Commented on [#14](https://github.com/steve1316/granblue-automation-android/issues/14) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
