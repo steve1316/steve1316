@@ -32,13 +32,15 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
 
-Kotlin       6 hrs 28 mins   ███████████▓░░░░░░░░░░░░░   46.98 % 
-Python       5 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   37.33 % 
-TypeScript   59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-JSON         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Groovy       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Total: 12 hrs 27 mins
+
+Kotlin       6 hrs 33 mins   █████████████▒░░░░░░░░░░░   52.72 % 
+Python       3 hrs 43 mins   ███████▒░░░░░░░░░░░░░░░░░   29.94 % 
+TypeScript   59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+JSON         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Groovy       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 <!--END_SECTION:waka-->
 
