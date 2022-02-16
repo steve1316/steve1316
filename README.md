@@ -21,11 +21,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/steve1316/granblue-automation-android/issues/15) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-2. 🎉 Merged PR [#16](https://github.com/steve1316/granblue-automation-android/pull/16) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-3. ❗️ Closed issue [#15](https://github.com/steve1316/granblue-automation-android/issues/15) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. 💪 Opened PR [#16](https://github.com/steve1316/granblue-automation-android/pull/16) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-5. 🗣 Commented on [#14](https://github.com/steve1316/granblue-automation-android/issues/14) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+1. ❗️ Closed issue [#17](https://github.com/steve1316/granblue-automation-android/issues/17) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+2. 🗣 Commented on [#17](https://github.com/steve1316/granblue-automation-android/issues/17) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+3. 🗣 Commented on [#15](https://github.com/steve1316/granblue-automation-android/issues/15) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+4. 🎉 Merged PR [#16](https://github.com/steve1316/granblue-automation-android/pull/16) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+5. ❗️ Closed issue [#15](https://github.com/steve1316/granblue-automation-android/issues/15) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
