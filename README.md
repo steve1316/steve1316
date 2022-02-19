@@ -34,8 +34,6 @@
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 8 hrs 20 mins
-
 Kotlin       3 hrs 18 mins   ██████████░░░░░░░░░░░░░░░   39.72 % 
 Python       2 hrs 50 mins   ████████▓░░░░░░░░░░░░░░░░   34.05 % 
 TypeScript   56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
