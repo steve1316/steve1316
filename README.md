@@ -23,9 +23,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com/steve1316/granblue-automation-android/issues/17) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
 2. 🗣 Commented on [#17](https://github.com/steve1316/granblue-automation-android/issues/17) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-3. ❗️ Closed issue [#17](https://github.com/steve1316/granblue-automation-android/issues/17) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. 🗣 Commented on [#17](https://github.com/steve1316/granblue-automation-android/issues/17) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-5. 🗣 Commented on [#15](https://github.com/steve1316/granblue-automation-android/issues/15) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+3. 🗣 Commented on [#17](https://github.com/steve1316/granblue-automation-android/issues/17) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+4. ❗️ Closed issue [#17](https://github.com/steve1316/granblue-automation-android/issues/17) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+5. 🗣 Commented on [#17](https://github.com/steve1316/granblue-automation-android/issues/17) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
