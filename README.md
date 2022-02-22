@@ -32,12 +32,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 13 February, 2022 - To: 20 February, 2022
+From: 14 February, 2022 - To: 21 February, 2022
 
-Kotlin   34 mins         ███████████████░░░░░░░░░░   59.42 % 
-Groovy   16 mins         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-JSON     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-XML      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+XML      1 hr 20 mins    █████████▓░░░░░░░░░░░░░░░   38.65 % 
+Kotlin   1 hr 5 mins     ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Groovy   56 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.17 % 
+JSON     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 ```
 <!--END_SECTION:waka-->
 
