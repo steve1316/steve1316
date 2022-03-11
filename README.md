@@ -21,11 +21,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/steve1316/android-cv-bot-template/pull/2) in [steve1316/android-cv-bot-template](https://github.com/steve1316/android-cv-bot-template)
-2. 🗣 Commented on [#18](https://github.com/steve1316/granblue-automation-android/issues/18) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-3. 🗣 Commented on [#19](https://github.com/steve1316/granblue-automation-android/issues/19) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. 🗣 Commented on [#112](https://github.com/steve1316/granblue-automation-pyautogui/issues/112) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. 🗣 Commented on [#18](https://github.com/steve1316/granblue-automation-android/issues/18) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+1. 🗣 Commented on [#100](https://github.com/steve1316/granblue-automation-pyautogui/issues/100) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. ❗️ Closed issue [#100](https://github.com/steve1316/granblue-automation-pyautogui/issues/100) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. ❗️ Closed issue [#114](https://github.com/steve1316/granblue-automation-pyautogui/issues/114) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. 🗣 Commented on [#114](https://github.com/steve1316/granblue-automation-pyautogui/issues/114) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. ❗️ Closed issue [#113](https://github.com/steve1316/granblue-automation-pyautogui/issues/113) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
