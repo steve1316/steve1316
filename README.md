@@ -21,11 +21,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/steve1316/granblue-automation-android/issues/19) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-2. ❗️ Closed issue [#20](https://github.com/steve1316/granblue-automation-android/issues/20) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-3. 🗣 Commented on [#20](https://github.com/steve1316/granblue-automation-android/issues/20) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. 🗣 Commented on [#115](https://github.com/steve1316/granblue-automation-pyautogui/issues/115) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. ❗️ Closed issue [#116](https://github.com/steve1316/granblue-automation-pyautogui/issues/116) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Closed issue [#118](https://github.com/steve1316/granblue-automation-pyautogui/issues/118) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 🗣 Commented on [#118](https://github.com/steve1316/granblue-automation-pyautogui/issues/118) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. 🎉 Merged PR [#119](https://github.com/steve1316/granblue-automation-pyautogui/pull/119) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. ❗️ Closed issue [#19](https://github.com/steve1316/granblue-automation-android/issues/19) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+5. ❗️ Closed issue [#20](https://github.com/steve1316/granblue-automation-android/issues/20) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
