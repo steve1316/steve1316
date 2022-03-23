@@ -21,11 +21,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/steve1316/granblue-automation-pyautogui/pull/120) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. ❗️ Closed issue [#118](https://github.com/steve1316/granblue-automation-pyautogui/issues/118) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. 🗣 Commented on [#118](https://github.com/steve1316/granblue-automation-pyautogui/issues/118) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. 🎉 Merged PR [#119](https://github.com/steve1316/granblue-automation-pyautogui/pull/119) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. ❗️ Closed issue [#19](https://github.com/steve1316/granblue-automation-android/issues/19) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+1. 🗣 Commented on [#121](https://github.com/steve1316/granblue-automation-pyautogui/issues/121) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 🎉 Merged PR [#123](https://github.com/steve1316/granblue-automation-pyautogui/pull/123) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. ❗️ Closed issue [#115](https://github.com/steve1316/granblue-automation-pyautogui/issues/115) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. 🗣 Commented on [#115](https://github.com/steve1316/granblue-automation-pyautogui/issues/115) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. ❗️ Opened issue [#21](https://github.com/steve1316/granblue-automation-android/issues/21) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
