@@ -33,14 +33,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 31 March 2022
+From: 25 March 2022 - To: 01 April 2022
 
-TypeScript   29 hrs 13 mins  ███████████████████████░░   91.95 %
-JavaScript   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-JSON         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Markdown     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Kotlin       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Python       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript   30 hrs 47 mins  ███████████████████████▒░   93.13 %
+JavaScript   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+JSON         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Markdown     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Kotlin       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
