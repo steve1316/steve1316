@@ -22,10 +22,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
-2. ❗️ Closed issue [#22](https://github.com/steve1316/granblue-automation-android/issues/22) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-3. 🗣 Commented on [#22](https://github.com/steve1316/granblue-automation-android/issues/22) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. 🎉 Merged PR [#128](https://github.com/steve1316/granblue-automation-pyautogui/pull/128) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. ❗️ Closed issue [#129](https://github.com/steve1316/granblue-automation-pyautogui/issues/129) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 🗣 Commented on [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
+3. ❗️ Closed issue [#22](https://github.com/steve1316/granblue-automation-android/issues/22) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+4. 🗣 Commented on [#22](https://github.com/steve1316/granblue-automation-android/issues/22) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+5. 🎉 Merged PR [#128](https://github.com/steve1316/granblue-automation-pyautogui/pull/128) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
