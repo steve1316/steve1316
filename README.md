@@ -33,14 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2022 - To: 05 May 2022
-
-TypeScript   5 hrs 7 mins    ███████████████████▓░░░░░   78.43 %
-Python       1 hr 15 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-Bash         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
