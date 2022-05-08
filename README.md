@@ -21,10 +21,10 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
-2. 🗣 Commented on [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
-3. 🗣 Commented on [#124](https://github.com/steve1316/granblue-automation-pyautogui/issues/124) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. 🗣 Commented on [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
+1. 🗣 Commented on [#133](https://github.com/steve1316/granblue-automation-pyautogui/issues/133) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. ❗️ Closed issue [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
+3. 🗣 Commented on [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
+4. 🗣 Commented on [#124](https://github.com/steve1316/granblue-automation-pyautogui/issues/124) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 5. 🗣 Commented on [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
 <!--END_SECTION:activity-->
 
