@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 May 2022 - To: 09 May 2022
+
+TypeScript   2 hrs 59 mins   ████████████████████████▒   97.10 %
+Python       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
