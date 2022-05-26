@@ -33,7 +33,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 19 May 2022 - To: 26 May 2022
+
+Kotlin       34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
+TypeScript   33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+Groovy       26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
+XML          25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
+Markdown     17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Java         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
 ```
 
 <!--END_SECTION:waka-->
