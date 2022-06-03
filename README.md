@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Steve Tu! <img src="wave.gif" alt="Wave" width="30px" /></h1>
+<h1 align="center">Hi, my name is Steve Tu!</h1>
 <h3 align="center">A passionate web and software developer from San Francisco State University with a major in Computer Science!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve1316&label=Profile%20views&color=0e75b6&style=flat" alt="steve1316" /> </p>
