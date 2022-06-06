@@ -21,11 +21,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/steve1316/android-cv-bot-template/pull/2) in [steve1316/android-cv-bot-template](https://github.com/steve1316/android-cv-bot-template)
-2. 🗣 Commented on [#133](https://github.com/steve1316/granblue-automation-pyautogui/issues/133) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. ❗️ Closed issue [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
-4. 🗣 Commented on [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
-5. 🗣 Commented on [#124](https://github.com/steve1316/granblue-automation-pyautogui/issues/124) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. 🎉 Merged PR [#1](https://github.com/steve1316/granblue-automation-statistics/pull/1) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+2. 💪 Opened PR [#1](https://github.com/steve1316/granblue-automation-statistics/pull/1) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+3. 🎉 Merged PR [#2](https://github.com/steve1316/android-cv-bot-template/pull/2) in [steve1316/android-cv-bot-template](https://github.com/steve1316/android-cv-bot-template)
+4. 🗣 Commented on [#133](https://github.com/steve1316/granblue-automation-pyautogui/issues/133) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. ❗️ Closed issue [#48](https://github.com/dragoonDorise/EmuDeck/issues/48) in [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
