@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
+From: 07 June 2022 - To: 14 June 2022
 
 Python       2 hrs 20 mins   ████████████░░░░░░░░░░░░░   48.36 %
 TypeScript   1 hr 47 mins    █████████▒░░░░░░░░░░░░░░░   37.05 %
