@@ -33,14 +33,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 June 2022 - To: 25 June 2022
+From: 19 June 2022 - To: 26 June 2022
 
-Kotlin           5 hrs 51 mins   ████████████████████▒░░░░   81.32 %
-JSON             1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-TypeScript       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Java             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Groovy           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Kotlin           10 hrs 56 mins  █████████████████████▓░░░   87.23 %
+JSON             1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Java             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Groovy           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+TypeScript       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
