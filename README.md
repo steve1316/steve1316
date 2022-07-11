@@ -35,14 +35,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 July 2022 - To: 10 July 2022
+From: 04 July 2022 - To: 11 July 2022
 
-Kotlin           20 hrs 31 mins  ███████████████████░░░░░░   76.26 %
-TypeScript       2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-JSON             1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Python           1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Markdown         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Groovy           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Kotlin           18 hrs 14 mins  ██████████████████▒░░░░░░   73.97 %
+JSON             3 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+TypeScript       2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Markdown         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
