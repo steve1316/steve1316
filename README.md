@@ -12,7 +12,7 @@
 - Android tool in Kotlin to help Uma Musume players with Training Event choices: [Uma Android Training Helper](https://github.com/steve1316/uma-android-training-helper)
 - Android automation bot in Kotlin to fully automate the Uma Musume Pretty Derby game: [Uma Android Automation](https://github.com/steve1316/uma-android-automation)
 - MERN stack website to collect optional statistical information from GA and GAA: [Granblue Automation Statistics](https://github.com/steve1316/granblue-automation-statistics)
-- Android tool to automate importing decks from masterduelmeta.com for Yugioh Master Duel: [Master Duel Decklist Importer](https://github.com/steve1316/masterduel-android-decklist-importer)
+- Android tool to automate importing decks from masterduelmeta.com and ygoprodeck.com for Yugioh Master Duel: [Master Duel Decklist Importer](https://github.com/steve1316/masterduel-android-decklist-importer)
 
 ## Connect with me:
 
