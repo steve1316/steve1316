@@ -13,6 +13,8 @@
 - Android automation bot in Kotlin to fully automate the Uma Musume Pretty Derby game: [Uma Android Automation](https://github.com/steve1316/uma-android-automation)
 - MERN stack website to collect optional statistical information from GA and GAA: [Granblue Automation Statistics](https://github.com/steve1316/granblue-automation-statistics)
 - Android tool to automate importing decks from masterduelmeta.com and ygoprodeck.com for Yugioh Master Duel: [Master Duel Decklist Importer](https://github.com/steve1316/masterduel-android-decklist-importer)
+- Android tool in Kotlin to automate farming Girls' Frontline: [Girls' Frontline Android Auto](https://github.com/steve1316/gfl-android-auto)
+- (WIP) Angular14/Express/MySQL stack with REST API to collect stats from Girls' Frontline Android Auto: [GFL Automation Statistics](https://github.com/steve1316/gfl-automation-statistics)
 
 ## Connect with me:
 
