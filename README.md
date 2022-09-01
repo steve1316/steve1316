@@ -37,10 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2022 - To: 31 August 2022
+From: 25 August 2022 - To: 01 September 2022
 
-JSON         7 mins          ███████████████████▒░░░░░   76.91 %
-TypeScript   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
+JSON   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
