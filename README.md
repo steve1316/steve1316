@@ -37,7 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 29 August 2022 - To: 05 September 2022
+
+Kotlin   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
