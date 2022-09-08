@@ -37,9 +37,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 August 2022 - To: 07 September 2022
+From: 01 September 2022 - To: 08 September 2022
 
-Kotlin   1 hr 20 mins    █████████████████████████   100.00 %
+Kotlin   1 hr 20 mins    ███████████████████████▒░   93.08 %
+Python   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
 ```
 
 <!--END_SECTION:waka-->
