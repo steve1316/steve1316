@@ -25,11 +25,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#138](https://github.com/steve1316/granblue-automation-pyautogui/pull/138) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. 🗣 Commented on [#137](https://github.com/steve1316/granblue-automation-pyautogui/issues/137) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. 🗣 Commented on [#26](https://github.com/steve1316/granblue-automation-android/issues/26) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. 🗣 Commented on [#26](https://github.com/steve1316/granblue-automation-android/issues/26) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-5. 🗣 Commented on [#26](https://github.com/steve1316/granblue-automation-android/issues/26) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+1. ❗️ Opened issue [#4](https://github.com/steve1316/granblue-automation-statistics/issues/4) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+2. ❗️ Opened issue [#3](https://github.com/steve1316/granblue-automation-statistics/issues/3) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+3. ❗️ Opened issue [#2](https://github.com/steve1316/granblue-automation-statistics/issues/2) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+4. ❗️ Closed issue [#132](https://github.com/steve1316/granblue-automation-pyautogui/issues/132) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. 🗣 Commented on [#132](https://github.com/steve1316/granblue-automation-pyautogui/issues/132) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
