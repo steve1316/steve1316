@@ -25,11 +25,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/steve1316/granblue-automation-pyautogui/issues/149) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. 🗣 Commented on [#149](https://github.com/steve1316/granblue-automation-pyautogui/issues/149) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. 🗣 Commented on [#28](https://github.com/steve1316/granblue-automation-android/issues/28) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-4. ❗️ Closed issue [#2](https://github.com/steve1316/granblue-automation-statistics/issues/2) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-5. 🗣 Commented on [#2](https://github.com/steve1316/granblue-automation-statistics/issues/2) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+1. ❗️ Closed issue [#21](https://github.com/steve1316/granblue-automation-android/issues/21) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+2. 🗣 Commented on [#21](https://github.com/steve1316/granblue-automation-android/issues/21) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+3. 🗣 Commented on [#29](https://github.com/steve1316/granblue-automation-android/issues/29) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+4. ❗️ Closed issue [#28](https://github.com/steve1316/granblue-automation-android/issues/28) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+5. 🗣 Commented on [#28](https://github.com/steve1316/granblue-automation-android/issues/28) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
