@@ -37,11 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 October 2022 - To: 20 October 2022
+From: 14 October 2022 - To: 21 October 2022
 
-Kotlin       6 hrs 11 mins   ████████████████████████░   96.09 %
-JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Kotlin       11 hrs 28 mins  ████████████████████████▒   97.85 %
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
