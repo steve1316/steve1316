@@ -37,14 +37,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 October 2022 - To: 05 November 2022
+From: 30 October 2022 - To: 06 November 2022
 
-Kotlin           14 hrs 35 mins  █████████████████▒░░░░░░░   68.96 %
-Python           4 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
-TypeScript       38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Markdown         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Other            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Kotlin           11 hrs 24 mins  ██████████████▓░░░░░░░░░░   59.04 %
+Python           4 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   24.16 %
+TypeScript       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Groovy           48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+JSON             28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Markdown         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
