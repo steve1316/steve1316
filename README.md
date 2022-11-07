@@ -15,6 +15,7 @@
 - Android tool to automate importing decks from masterduelmeta.com and ygoprodeck.com for Yugioh Master Duel: [Master Duel Decklist Importer](https://github.com/steve1316/masterduel-android-decklist-importer)
 - Android tool in Kotlin to automate farming Girls' Frontline: [Girls' Frontline Android Auto](https://github.com/steve1316/gfl-android-auto)
 - (WIP) Angular14/Express/MySQL stack with REST API to collect stats from Girls' Frontline Android Auto: [GFL Automation Statistics](https://github.com/steve1316/gfl-automation-statistics)
+- Android tool to automatically perform inventory scan into GOOD format for third party websites to parse from: [Genshin Inventory Scanner Android](https://github.com/steve1316/genshin-inventory-scanner-android)
 
 ## Connect with me:
 
