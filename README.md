@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/steve1316/granblue-automation-pyautogui/pull/152) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. 🎉 Merged PR [#151](https://github.com/steve1316/granblue-automation-pyautogui/pull/151) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. 💪 Opened PR [#152](https://github.com/steve1316/granblue-automation-pyautogui/pull/152) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. 💪 Opened PR [#151](https://github.com/steve1316/granblue-automation-pyautogui/pull/151) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. 🗣 Commented on [#149](https://github.com/steve1316/granblue-automation-pyautogui/issues/149) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. 💪 Opened PR [#153](https://github.com/steve1316/granblue-automation-pyautogui/pull/153) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 🎉 Merged PR [#152](https://github.com/steve1316/granblue-automation-pyautogui/pull/152) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. 🎉 Merged PR [#151](https://github.com/steve1316/granblue-automation-pyautogui/pull/151) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. 💪 Opened PR [#152](https://github.com/steve1316/granblue-automation-pyautogui/pull/152) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. 💪 Opened PR [#151](https://github.com/steve1316/granblue-automation-pyautogui/pull/151) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
