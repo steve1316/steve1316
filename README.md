@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/steve1316/granblue-automation-pyautogui/pull/154) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. 💪 Opened PR [#153](https://github.com/steve1316/granblue-automation-pyautogui/pull/153) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. 🎉 Merged PR [#152](https://github.com/steve1316/granblue-automation-pyautogui/pull/152) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. 🎉 Merged PR [#151](https://github.com/steve1316/granblue-automation-pyautogui/pull/151) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. 💪 Opened PR [#152](https://github.com/steve1316/granblue-automation-pyautogui/pull/152) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Opened issue [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
+2. 💪 Opened PR [#31](https://github.com/steve1316/granblue-automation-android/pull/31) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+3. 🎉 Merged PR [#154](https://github.com/steve1316/granblue-automation-pyautogui/pull/154) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. 💪 Opened PR [#153](https://github.com/steve1316/granblue-automation-pyautogui/pull/153) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. 🎉 Merged PR [#152](https://github.com/steve1316/granblue-automation-pyautogui/pull/152) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
