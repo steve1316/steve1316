@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 November 2022 - To: 25 November 2022
+From: 19 November 2022 - To: 26 November 2022
 
-TypeScript   4 hrs 22 mins   █████████████████████▓░░░   86.67 %
-Groovy       21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Kotlin       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript   4 hrs 22 mins   █████████████████████▓░░░   87.14 %
+Groovy       21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Kotlin       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
