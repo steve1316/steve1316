@@ -38,13 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
-
-Python       1 hr 22 mins    ██████████▓░░░░░░░░░░░░░░   42.74 %
-TypeScript   1 hr 15 mins    ██████████░░░░░░░░░░░░░░░   39.50 %
-Groovy       33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
