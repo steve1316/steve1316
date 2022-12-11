@@ -38,7 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 03 December 2022 - To: 10 December 2022
+
+XML        18 mins         ████████████████▒░░░░░░░░   65.23 %
+Groovy     7 mins          ███████░░░░░░░░░░░░░░░░░░   28.01 %
+Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+JSON       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
