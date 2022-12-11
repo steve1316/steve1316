@@ -38,12 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 10 December 2022
+From: 04 December 2022 - To: 11 December 2022
 
-XML        18 mins         ████████████████▒░░░░░░░░   65.23 %
-Groovy     7 mins          ███████░░░░░░░░░░░░░░░░░░   28.01 %
-Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-JSON       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Kotlin     2 hrs 43 mins   ████████████████████▓░░░░   82.74 %
+XML        18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+Groovy     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
