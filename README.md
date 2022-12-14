@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
-2. 🗣 Commented on [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
-3. 💪 Opened PR [#155](https://github.com/steve1316/granblue-automation-pyautogui/pull/155) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. ❗️ Opened issue [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
-5. 💪 Opened PR [#31](https://github.com/steve1316/granblue-automation-android/pull/31) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+1. ❗️ Opened issue [#1](https://github.com/steve1316/gfl-android-auto/issues/1) in [steve1316/gfl-android-auto](https://github.com/steve1316/gfl-android-auto)
+2. ❗️ Closed issue [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
+3. 🗣 Commented on [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
+4. 💪 Opened PR [#155](https://github.com/steve1316/granblue-automation-pyautogui/pull/155) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. ❗️ Opened issue [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
