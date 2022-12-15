@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 14 December 2022
+From: 08 December 2022 - To: 15 December 2022
 
 Kotlin       6 hrs 15 mins   ████████████████████▓░░░░   83.11 %
 JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
