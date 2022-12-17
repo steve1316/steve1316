@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/steve1316/granblue-automation-pyautogui/issues/156) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. ❗️ Opened issue [#1](https://github.com/steve1316/gfl-android-auto/issues/1) in [steve1316/gfl-android-auto](https://github.com/steve1316/gfl-android-auto)
-3. ❗️ Closed issue [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
-4. 🗣 Commented on [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
-5. 💪 Opened PR [#155](https://github.com/steve1316/granblue-automation-pyautogui/pull/155) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Closed issue [#156](https://github.com/steve1316/granblue-automation-pyautogui/issues/156) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 🗣 Commented on [#156](https://github.com/steve1316/granblue-automation-pyautogui/issues/156) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. ❗️ Opened issue [#1](https://github.com/steve1316/gfl-android-auto/issues/1) in [steve1316/gfl-android-auto](https://github.com/steve1316/gfl-android-auto)
+4. ❗️ Closed issue [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
+5. 🗣 Commented on [#100](https://github.com/AdelRedaa97/react-native-select-dropdown/issues/100) in [AdelRedaa97/react-native-select-dropdown](https://github.com/AdelRedaa97/react-native-select-dropdown)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
