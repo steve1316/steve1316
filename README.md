@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
-Kotlin                 13 hrs 12 mins  ██████████░░░░░░░░░░░░░░░   40.45 %
-Java                   5 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-Groovy                 4 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Gradle                 3 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-XML                    1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Bash                   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Kotlin                 11 hrs 35 mins  ███████████▒░░░░░░░░░░░░░   45.70 %
+Java                   4 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Groovy                 3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Gradle                 1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Python                 1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Bash                   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
