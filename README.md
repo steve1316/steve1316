@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/steve1316/genshin-inventory-scanner-android/issues/1) in [steve1316/genshin-inventory-scanner-android](https://github.com/steve1316/genshin-inventory-scanner-android)
-2. ❗️ Closed issue [#159](https://github.com/steve1316/granblue-automation-pyautogui/issues/159) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. 💪 Opened PR [#160](https://github.com/steve1316/granblue-automation-pyautogui/pull/160) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. 🎉 Merged PR [#153](https://github.com/steve1316/granblue-automation-pyautogui/pull/153) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. ❗️ Opened issue [#159](https://github.com/steve1316/granblue-automation-pyautogui/issues/159) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Closed issue [#1](https://github.com/steve1316/genshin-inventory-scanner-android/issues/1) in [steve1316/genshin-inventory-scanner-android](https://github.com/steve1316/genshin-inventory-scanner-android)
+2. 🗣 Commented on [#1](https://github.com/steve1316/genshin-inventory-scanner-android/issues/1) in [steve1316/genshin-inventory-scanner-android](https://github.com/steve1316/genshin-inventory-scanner-android)
+3. ❗️ Opened issue [#1](https://github.com/steve1316/genshin-inventory-scanner-android/issues/1) in [steve1316/genshin-inventory-scanner-android](https://github.com/steve1316/genshin-inventory-scanner-android)
+4. ❗️ Closed issue [#159](https://github.com/steve1316/granblue-automation-pyautogui/issues/159) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. 💪 Opened PR [#160](https://github.com/steve1316/granblue-automation-pyautogui/pull/160) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
