@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 January 2023 - To: 23 January 2023
+From: 17 January 2023 - To: 24 January 2023
 
 Kotlin                 8 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.75 %
 TypeScript             5 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
