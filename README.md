@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 January 2023 - To: 24 January 2023
+From: 18 January 2023 - To: 25 January 2023
 
-Kotlin                 8 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.75 %
-TypeScript             5 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
-Groovy                 3 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
-JSON                   1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-Gradle                 1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Java                   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+TypeScript             10 hrs 3 mins   █████████░░░░░░░░░░░░░░░░   36.46 %
+Kotlin                 8 hrs 37 mins   ███████▓░░░░░░░░░░░░░░░░░   31.27 %
+Groovy                 3 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+JSON                   2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Gradle                 1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Java                   56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
