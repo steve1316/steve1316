@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/steve1316/granblue-automation-android/issues/31) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
-2. ❗️ Closed issue [#1](https://github.com/steve1316/genshin-inventory-scanner-android/issues/1) in [steve1316/genshin-inventory-scanner-android](https://github.com/steve1316/genshin-inventory-scanner-android)
-3. 🗣 Commented on [#1](https://github.com/steve1316/genshin-inventory-scanner-android/issues/1) in [steve1316/genshin-inventory-scanner-android](https://github.com/steve1316/genshin-inventory-scanner-android)
-4. ❗️ Opened issue [#1](https://github.com/steve1316/genshin-inventory-scanner-android/issues/1) in [steve1316/genshin-inventory-scanner-android](https://github.com/steve1316/genshin-inventory-scanner-android)
-5. ❗️ Closed issue [#159](https://github.com/steve1316/granblue-automation-pyautogui/issues/159) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Opened issue [#33](https://github.com/steve1316/granblue-automation-android/issues/33) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+2. 🗣 Commented on [#31](https://github.com/steve1316/granblue-automation-android/issues/31) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+3. ❗️ Closed issue [#1](https://github.com/steve1316/genshin-inventory-scanner-android/issues/1) in [steve1316/genshin-inventory-scanner-android](https://github.com/steve1316/genshin-inventory-scanner-android)
+4. 🗣 Commented on [#1](https://github.com/steve1316/genshin-inventory-scanner-android/issues/1) in [steve1316/genshin-inventory-scanner-android](https://github.com/steve1316/genshin-inventory-scanner-android)
+5. ❗️ Opened issue [#1](https://github.com/steve1316/genshin-inventory-scanner-android/issues/1) in [steve1316/genshin-inventory-scanner-android](https://github.com/steve1316/genshin-inventory-scanner-android)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
