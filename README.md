@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
-Python           20 hrs 10 mins  ██████████████████▒░░░░░░   73.42 %
-Kotlin           3 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-Docker           1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-TypeScript       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Text             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-JSON             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Python           14 hrs 32 mins  █████████████████▒░░░░░░░   69.96 %
+Kotlin           3 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+TypeScript       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Groovy           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Docker           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JSON             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
