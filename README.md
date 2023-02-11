@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#136](https://github.com/steve1316/granblue-automation-pyautogui/issues/136) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-2. 🗣 Commented on [#136](https://github.com/steve1316/granblue-automation-pyautogui/issues/136) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. ❗️ Closed issue [#131](https://github.com/steve1316/granblue-automation-pyautogui/issues/131) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. 🗣 Commented on [#131](https://github.com/steve1316/granblue-automation-pyautogui/issues/131) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. ❗️ Closed issue [#161](https://github.com/steve1316/granblue-automation-pyautogui/issues/161) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Closed issue [#163](https://github.com/steve1316/granblue-automation-pyautogui/issues/163) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. 🗣 Commented on [#163](https://github.com/steve1316/granblue-automation-pyautogui/issues/163) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. ❗️ Opened issue [#35](https://github.com/steve1316/granblue-automation-android/issues/35) in [steve1316/granblue-automation-android](https://github.com/steve1316/granblue-automation-android)
+4. ❗️ Closed issue [#136](https://github.com/steve1316/granblue-automation-pyautogui/issues/136) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. 🗣 Commented on [#136](https://github.com/steve1316/granblue-automation-pyautogui/issues/136) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
