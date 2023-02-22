@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2023 - To: 21 February 2023
+From: 15 February 2023 - To: 22 February 2023
 
-Python       11 hrs 37 mins  ███████████░░░░░░░░░░░░░░   44.25 %
-TypeScript   11 hrs 33 mins  ███████████░░░░░░░░░░░░░░   43.97 %
-Bash         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-SSH Config   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Kotlin       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Groovy       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TypeScript   12 hrs 14 mins  ████████████░░░░░░░░░░░░░   47.43 %
+Python       11 hrs 47 mins  ███████████▒░░░░░░░░░░░░░   45.68 %
+Bash         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+SSH Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Kotlin       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
