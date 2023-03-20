@@ -38,14 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2023 - To: 19 March 2023
+From: 13 March 2023 - To: 20 March 2023
 
-TypeScript   3 hrs 53 mins   ███████████████████░░░░░░   76.49 %
-Python       40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Kotlin       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Gradle       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-SCSS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Python       30 mins         ████████████████████████░   96.65 %
+SSH Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
