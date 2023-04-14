@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-TypeScript   5 hrs 30 mins   ██████████████░░░░░░░░░░░   55.85 %
-Python       2 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   28.76 %
-JSON         52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-SSH Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+TypeScript   5 hrs 47 mins   █████████████░░░░░░░░░░░░   52.47 %
+Python       3 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   27.44 %
+JSON         1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+SSH Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
