@@ -38,12 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 May 2023 - To: 18 May 2023
+From: 12 May 2023 - To: 19 May 2023
 
-Python       3 hrs 23 mins   ████████████████████████▒   97.31 %
-SSH Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python       19 mins         ████████████████████████░   95.52 %
+SSH Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->
