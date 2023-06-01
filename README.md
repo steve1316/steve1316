@@ -38,9 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 May 2023 - To: 31 May 2023
+From: 25 May 2023 - To: 01 June 2023
 
-SSH Config   2 mins          █████████████████████████   100.00 %
+PowerShell   3 mins          ████████▓░░░░░░░░░░░░░░░░   34.55 %
+Batchfile    3 mins          ████████▓░░░░░░░░░░░░░░░░   34.41 %
+SSH Config   2 mins          ███████▓░░░░░░░░░░░░░░░░░   31.04 %
 ```
 
 <!--END_SECTION:waka-->
