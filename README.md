@@ -37,8 +37,8 @@
 
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
 PowerShell   3 mins          ████████▓░░░░░░░░░░░░░░░░   34.55 %
 Batchfile    3 mins          ████████▓░░░░░░░░░░░░░░░░   34.41 %
