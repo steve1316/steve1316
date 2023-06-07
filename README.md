@@ -38,11 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2023 - To: 06 June 2023
+From: 31 May 2023 - To: 07 June 2023
 
-PowerShell   3 mins          ████████████▒░░░░░░░░░░░░   49.78 %
-Batchfile    3 mins          ████████████▒░░░░░░░░░░░░   49.57 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+PowerShell   3 mins          ████████████▒░░░░░░░░░░░░   49.35 %
+Batchfile    3 mins          ████████████▒░░░░░░░░░░░░   49.14 %
+Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
