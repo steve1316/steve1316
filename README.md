@@ -38,11 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2023 - To: 23 July 2023
+From: 17 July 2023 - To: 24 July 2023
 
-SSH Config   0 secs          ██████████████████████▒░░   89.95 %
-Python       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Lua          27 mins         ███████████████████░░░░░░   75.87 %
+SSH Config   8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.92 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
