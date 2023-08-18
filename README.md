@@ -38,12 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2023 - To: 17 August 2023
+From: 11 August 2023 - To: 18 August 2023
 
-Python       1 hr 54 mins    ███████████████████░░░░░░   75.83 %
-Text         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
-HTML         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-SSH Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Python           1 hr 57 mins    ███████████████████▒░░░░░   76.82 %
+ActionScript 3   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+HTML             14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+SSH Config       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
