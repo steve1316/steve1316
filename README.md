@@ -38,11 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2023 - To: 21 August 2023
+From: 15 August 2023 - To: 22 August 2023
 
-Python           1 hr 15 mins    ███████████████████▓░░░░░   78.48 %
-ActionScript 3   18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-SSH Config       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Python           1 hr 15 mins    ████████████████████░░░░░   80.53 %
+ActionScript 3   18 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 %
 ```
 
 <!--END_SECTION:waka-->
