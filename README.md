@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/steve1316/granblue-automation-statistics/issues/9) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-2. 🗣 Commented on [#201](https://github.com/steve1316/granblue-automation-pyautogui/issues/201) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-3. 🗣 Commented on [#201](https://github.com/steve1316/granblue-automation-pyautogui/issues/201) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-4. ❗️ Closed issue [#182](https://github.com/steve1316/granblue-automation-pyautogui/issues/182) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
-5. 🗣 Commented on [#182](https://github.com/steve1316/granblue-automation-pyautogui/issues/182) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. 🎉 Merged PR [#198](https://github.com/steve1316/granblue-automation-pyautogui/pull/198) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+2. ❗️ Closed issue [#196](https://github.com/steve1316/granblue-automation-pyautogui/issues/196) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+3. 🎉 Merged PR [#197](https://github.com/steve1316/granblue-automation-pyautogui/pull/197) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+4. 🎉 Merged PR [#199](https://github.com/steve1316/granblue-automation-pyautogui/pull/199) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+5. 🗣 Commented on [#9](https://github.com/steve1316/granblue-automation-statistics/issues/9) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
