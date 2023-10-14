@@ -38,9 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2023 - To: 13 October 2023
+From: 07 October 2023 - To: 14 October 2023
 
-No activity tracked
+Python   1 hr 39 mins    ██████████████████████▓░░   90.78 %
+JSON     10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
 ```
 
 <!--END_SECTION:waka-->
