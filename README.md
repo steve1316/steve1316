@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
-Python       11 hrs 19 mins  ██████████████████▒░░░░░░   73.56 %
-Docker       1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Bash         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-JSON         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-YAML         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Python       13 hrs 1 min    ██████████████████▓░░░░░░   74.07 %
+Docker       1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+Bash         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+YAML         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+JavaScript   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
