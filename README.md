@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2024 - To: 07 February 2024
+From: 01 February 2024 - To: 08 February 2024
 
-Python       14 hrs 45 mins  ██████████████▓░░░░░░░░░░   58.05 %
-JavaScript   6 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-Docker       2 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-Other        33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-CSV          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Python       16 hrs 13 mins  ███████████████▒░░░░░░░░░   61.24 %
+JavaScript   5 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
+Docker       2 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+CSV          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
