@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
-YAML                       8 hrs 17 mins   ████████████▒░░░░░░░░░░░░   49.63 %
-Python                     2 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-JSON                       2 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
-Docker                     47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Bash                       37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+YAML                       6 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   45.58 %
+Python                     4 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   31.44 %
+JSON                       1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Nginx configuration file   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Docker                     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
