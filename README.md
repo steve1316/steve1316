@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/steve1316/granblue-automation-statistics/pull/11) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-2. 💪 Opened PR [#11](https://github.com/steve1316/granblue-automation-statistics/pull/11) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-3. 🎉 Merged PR [#10](https://github.com/steve1316/granblue-automation-statistics/pull/10) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-4. 💪 Opened PR [#10](https://github.com/steve1316/granblue-automation-statistics/pull/10) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-5. 🗣 Commented on [#209](https://github.com/steve1316/granblue-automation-pyautogui/issues/209) in [steve1316/granblue-automation-pyautogui](https://github.com/steve1316/granblue-automation-pyautogui)
+1. ❗️ Opened issue [#13](https://github.com/steve1316/granblue-automation-statistics/issues/13) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+2. 💪 Opened PR [#12](https://github.com/steve1316/granblue-automation-statistics/pull/12) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+3. 🎉 Merged PR [#11](https://github.com/steve1316/granblue-automation-statistics/pull/11) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+4. 💪 Opened PR [#11](https://github.com/steve1316/granblue-automation-statistics/pull/11) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+5. 🎉 Merged PR [#10](https://github.com/steve1316/granblue-automation-statistics/pull/10) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
