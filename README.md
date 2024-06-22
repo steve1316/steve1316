@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2024 - To: 21 June 2024
+From: 15 June 2024 - To: 22 June 2024
 
-JavaScript   20 hrs 45 mins  ████████████████░░░░░░░░░   64.24 %
-Python       8 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
-YAML         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Docker       32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Markdown     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+JavaScript   20 hrs 29 mins  ██████████████▓░░░░░░░░░░   59.04 %
+Python       11 hrs 2 mins   ████████░░░░░░░░░░░░░░░░░   31.82 %
+YAML         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Docker       32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Markdown     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
