@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/steve1316/granblue-automation-statistics/issues/13) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-2. 💪 Opened PR [#12](https://github.com/steve1316/granblue-automation-statistics/pull/12) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-3. 🎉 Merged PR [#11](https://github.com/steve1316/granblue-automation-statistics/pull/11) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-4. 💪 Opened PR [#11](https://github.com/steve1316/granblue-automation-statistics/pull/11) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-5. 🎉 Merged PR [#10](https://github.com/steve1316/granblue-automation-statistics/pull/10) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+1. 🗣 Commented on [#5](https://github.com/Noxde/glyph-redeemer/issues/5) in [Noxde/glyph-redeemer](https://github.com/Noxde/glyph-redeemer)
+2. ❗️ Opened issue [#13](https://github.com/steve1316/granblue-automation-statistics/issues/13) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+3. 💪 Opened PR [#12](https://github.com/steve1316/granblue-automation-statistics/pull/12) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+4. 🎉 Merged PR [#11](https://github.com/steve1316/granblue-automation-statistics/pull/11) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+5. 💪 Opened PR [#11](https://github.com/steve1316/granblue-automation-statistics/pull/11) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
