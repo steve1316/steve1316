@@ -38,13 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2024 - To: 10 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-YAML         35 mins         ████████████░░░░░░░░░░░░░   47.87 %
-JSON         20 mins         ███████░░░░░░░░░░░░░░░░░░   27.53 %
-SSH Config   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-Docker       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-Text         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+YAML         35 mins         ████████████████░░░░░░░░░   64.33 %
+JSON         12 mins         ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+Docker       6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
