@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-JSON         2 hrs 41 mins   █████████████████████▓░░░   87.23 %
-SSH Config   23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JSON         4 hrs 32 mins   ███████████████████████░░   92.00 %
+SSH Config   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
