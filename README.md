@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-JSON         6 hrs 31 mins   ██████████████▓░░░░░░░░░░   59.16 %
-YAML         4 hrs 17 mins   █████████▓░░░░░░░░░░░░░░░   38.94 %
-Git          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JSON         9 hrs 56 mins   ██████████████████▓░░░░░░   74.20 %
+YAML         3 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.47 %
+Git          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
