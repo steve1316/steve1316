@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
-Markdown     2 hrs 16 mins   ██████████▓░░░░░░░░░░░░░░   42.35 %
-JavaScript   1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
-Docker       46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-TypeScript   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-JSON         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Markdown     2 hrs 16 mins   ████████████▒░░░░░░░░░░░░   49.29 %
+JavaScript   1 hr            █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+Docker       46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+Git          17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
