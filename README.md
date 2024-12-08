@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2024 - To: 07 December 2024
+From: 01 December 2024 - To: 08 December 2024
 
 Python       4 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   46.06 %
 JavaScript   2 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   19.53 %
