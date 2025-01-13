@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2025 - To: 12 January 2025
+From: 06 January 2025 - To: 13 January 2025
 
-Lua          31 hrs 30 mins  ██████████████░░░░░░░░░░░   56.25 %
-Python       18 hrs 58 mins  ████████▒░░░░░░░░░░░░░░░░   33.88 %
-Text         2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Docker       1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-SSH Config   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Lua          31 hrs 49 mins  ██████████████▓░░░░░░░░░░   58.63 %
+Python       14 hrs 41 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
+Text         4 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Docker       1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+SSH Config   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
