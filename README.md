@@ -26,7 +26,7 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Noxde/glyph-redeemer/issues/5) in [Noxde/glyph-redeemer](https://github.com/Noxde/glyph-redeemer)
+1. ❗️ Opened issue [#443](https://github.com/chadvandy/mct_wh3/issues/443) in [chadvandy/mct_wh3](https://github.com/chadvandy/mct_wh3)
 2. ❗️ Opened issue [#13](https://github.com/steve1316/granblue-automation-statistics/issues/13) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
 3. 💪 Opened PR [#12](https://github.com/steve1316/granblue-automation-statistics/pull/12) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
 4. 🎉 Merged PR [#11](https://github.com/steve1316/granblue-automation-statistics/pull/11) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
