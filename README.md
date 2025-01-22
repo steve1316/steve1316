@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2025 - To: 21 January 2025
+From: 15 January 2025 - To: 22 January 2025
 
-Python       12 hrs 42 mins  ██████████░░░░░░░░░░░░░░░   39.96 %
-Lua          11 hrs 44 mins  █████████▒░░░░░░░░░░░░░░░   36.97 %
-Text         4 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Docker       2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Git          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python       12 hrs 9 mins   ███████████░░░░░░░░░░░░░░   44.62 %
+Lua          9 hrs 14 mins   ████████▒░░░░░░░░░░░░░░░░   33.97 %
+Text         4 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Docker       1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
