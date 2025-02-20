@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2025 - To: 19 February 2025
+From: 13 February 2025 - To: 20 February 2025
 
-Python       12 hrs 25 mins  ██████████████████▒░░░░░░   73.54 %
-Text         2 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Batchfile    51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Docker       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-TOML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Python       9 hrs 4 mins    ████████████████░░░░░░░░░   64.56 %
+Text         1 hr 56 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+Batchfile    51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Markdown     46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Docker       46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->
