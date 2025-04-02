@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2025 - To: 01 April 2025
+From: 26 March 2025 - To: 02 April 2025
 
-JavaScript   12 hrs 47 mins  ███████████████████▒░░░░░   76.73 %
-Python       1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-Bash         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Lua          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-SSH Config   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+JavaScript   11 hrs 4 mins   ████████████████▒░░░░░░░░   65.03 %
+Python       3 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+Bash         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Lua          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+SSH Config   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
