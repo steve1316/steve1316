@@ -26,10 +26,10 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/steve1316/uma-android-automation/pull/1) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. 🗣 Commented on [#323](https://github.com/Frodo45127/rpfm/issues/323) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
-3. ❗️ Opened issue [#323](https://github.com/Frodo45127/rpfm/issues/323) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
-4. 🗣 Commented on [#1](https://github.com/steve1316/chrono-ark-alternative-english-translations/issues/1) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
+1. 🎉 Merged PR [#1](https://github.com/steve1316/uma-android-automation/pull/1) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. 💪 Opened PR [#1](https://github.com/steve1316/uma-android-automation/pull/1) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. 🗣 Commented on [#323](https://github.com/Frodo45127/rpfm/issues/323) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
+4. ❗️ Opened issue [#323](https://github.com/Frodo45127/rpfm/issues/323) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
 5. 🗣 Commented on [#3556](https://github.com/seleniumbase/SeleniumBase/issues/3556) in [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
 <!--END_SECTION:activity-->
 
