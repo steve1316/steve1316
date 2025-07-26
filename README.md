@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2025 - To: 25 July 2025
+From: 19 July 2025 - To: 26 July 2025
 
-Python            13 hrs 21 mins  ████████████░░░░░░░░░░░░░   48.12 %
-Docker            4 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-Lua               2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-JavaScript        2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Rust              1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Python            12 hrs 27 mins  ███████████░░░░░░░░░░░░░░   44.60 %
+Bash              3 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Docker            3 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Lua               2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+JavaScript        2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
 ```
 
 <!--END_SECTION:waka-->
