@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#324](https://github.com/Frodo45127/rpfm/issues/324) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
-2. ❗️ Opened issue [#324](https://github.com/Frodo45127/rpfm/issues/324) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
-3. 💪 Opened PR [#2](https://github.com/steve1316/uma-android-automation/pull/2) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. 🎉 Merged PR [#1](https://github.com/steve1316/uma-android-automation/pull/1) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. 💪 Opened PR [#1](https://github.com/steve1316/uma-android-automation/pull/1) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. 🗣 Commented on [#3](https://github.com/steve1316/uma-android-automation/issues/3) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. 🗣 Commented on [#3](https://github.com/steve1316/uma-android-automation/issues/3) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. 🗣 Commented on [#3](https://github.com/steve1316/uma-android-automation/issues/3) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. 🗣 Commented on [#3](https://github.com/steve1316/uma-android-automation/issues/3) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. 💪 Opened PR [#4](https://github.com/steve1316/uma-android-automation/pull/4) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
