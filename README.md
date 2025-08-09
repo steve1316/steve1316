@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2025 - To: 08 August 2025
+From: 02 August 2025 - To: 09 August 2025
 
-Kotlin       13 hrs 37 mins  █████████████▓░░░░░░░░░░░   54.29 %
-Python       6 hrs 49 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-Docker       2 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-XML          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Markdown     33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Kotlin       11 hrs 56 mins  █████████████▒░░░░░░░░░░░   52.84 %
+Python       6 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.87 %
+Docker       2 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+XML          53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Markdown     33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
