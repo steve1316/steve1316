@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-Kotlin              3 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   27.46 %
-JSON                2 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-Python              1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-TypeScript          47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-SSH Config          36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JSON                3 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+Kotlin              2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+TypeScript          1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+Gradle Kotlin DSL   1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Groovy              58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 ```
 
 <!--END_SECTION:waka-->
