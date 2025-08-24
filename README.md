@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2025 - To: 23 August 2025
+From: 17 August 2025 - To: 24 August 2025
 
-TypeScript          3 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Gradle Kotlin DSL   3 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Python              2 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-Kotlin              2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Docker              2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+TypeScript          3 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+Python              2 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+Docker              2 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Kotlin              1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+JavaScript          1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
 ```
 
 <!--END_SECTION:waka-->
