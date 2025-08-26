@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/steve1316/uma-android-automation/issues/40) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. ❗️ Opened issue [#39](https://github.com/steve1316/uma-android-automation/issues/39) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. ❗️ Opened issue [#38](https://github.com/steve1316/uma-android-automation/issues/38) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. ❗️ Opened issue [#37](https://github.com/steve1316/uma-android-automation/issues/37) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. 🗣 Commented on [#2](https://github.com/steve1316/android-cv-automation-library/issues/2) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+1. ❗️ Opened issue [#1](https://github.com/kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool/issues/1) in [kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool](https://github.com/kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool)
+2. ❗️ Opened issue [#40](https://github.com/steve1316/uma-android-automation/issues/40) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. ❗️ Opened issue [#39](https://github.com/steve1316/uma-android-automation/issues/39) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. ❗️ Opened issue [#38](https://github.com/steve1316/uma-android-automation/issues/38) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. ❗️ Opened issue [#37](https://github.com/steve1316/uma-android-automation/issues/37) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
