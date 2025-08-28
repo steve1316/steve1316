@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#328](https://github.com/Frodo45127/rpfm/issues/328) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
-2. ❗️ Opened issue [#1](https://github.com/kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool/issues/1) in [kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool](https://github.com/kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool)
-3. ❗️ Opened issue [#40](https://github.com/steve1316/uma-android-automation/issues/40) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. ❗️ Opened issue [#39](https://github.com/steve1316/uma-android-automation/issues/39) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. ❗️ Opened issue [#38](https://github.com/steve1316/uma-android-automation/issues/38) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. 🗣 Commented on [#324](https://github.com/Frodo45127/rpfm/issues/324) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
+2. ❗️ Closed issue [#324](https://github.com/Frodo45127/rpfm/issues/324) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
+3. 🗣 Commented on [#328](https://github.com/Frodo45127/rpfm/issues/328) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
+4. ❗️ Opened issue [#1](https://github.com/kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool/issues/1) in [kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool](https://github.com/kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool)
+5. ❗️ Opened issue [#40](https://github.com/steve1316/uma-android-automation/issues/40) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
