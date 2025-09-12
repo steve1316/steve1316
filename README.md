@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2025 - To: 11 September 2025
+From: 05 September 2025 - To: 12 September 2025
 
-TypeScript          14 hrs 3 mins   █████████████░░░░░░░░░░░░   51.37 %
-JavaScript          7 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.35 %
-Gradle Kotlin DSL   1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-JSON                1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Groovy              1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+TypeScript          14 hrs 57 mins  ████████████▓░░░░░░░░░░░░   50.41 %
+JavaScript          6 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+JSON                2 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Groovy              2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Gradle Kotlin DSL   1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
 ```
 
 <!--END_SECTION:waka-->
