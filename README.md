@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2025 - To: 29 September 2025
+From: 23 September 2025 - To: 30 September 2025
 
-TypeScript        13 hrs 36 mins  ████████████░░░░░░░░░░░░░   48.16 %
-Python            4 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-Docker            3 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-Kotlin            2 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Groovy            1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+TypeScript        14 hrs 23 mins  █████████████▓░░░░░░░░░░░   54.80 %
+Python            5 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+Docker            4 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+Kotlin            34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Git               23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
