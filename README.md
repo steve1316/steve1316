@@ -26,9 +26,9 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#324](https://github.com/Frodo45127/rpfm/issues/324) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
-2. ❗️ Closed issue [#324](https://github.com/Frodo45127/rpfm/issues/324) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
-3. 🗣 Commented on [#328](https://github.com/Frodo45127/rpfm/issues/328) in [Frodo45127/rpfm](https://github.com/Frodo45127/rpfm)
+1. 🗣 Commented on [#29](https://github.com/steve1316/uma-android-automation/issues/29) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. 🗣 Commented on [#44](https://github.com/steve1316/uma-android-automation/issues/44) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. ❗️ Closed issue [#44](https://github.com/steve1316/uma-android-automation/issues/44) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 4. ❗️ Opened issue [#1](https://github.com/kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool/issues/1) in [kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool](https://github.com/kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool)
 5. ❗️ Opened issue [#40](https://github.com/steve1316/uma-android-automation/issues/40) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
