@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2025 - To: 10 October 2025
+From: 04 October 2025 - To: 11 October 2025
 
-Python            4 hrs 52 mins   ███████████░░░░░░░░░░░░░░   43.91 %
-Docker            1 hr 52 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-TypeScript        1 hr 29 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Kotlin            1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-XML               18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Python            5 hrs 48 mins   ███████████▓░░░░░░░░░░░░░   46.61 %
+Docker            1 hr 52 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+TypeScript        1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+Kotlin            1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+XML               18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
