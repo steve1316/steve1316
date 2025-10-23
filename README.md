@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/steve1316/uma-android-automation/issues/29) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. ❗️ Closed issue [#44](https://github.com/steve1316/uma-android-automation/issues/44) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. 🗣 Commented on [#44](https://github.com/steve1316/uma-android-automation/issues/44) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. ❗️ Opened issue [#1](https://github.com/kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool/issues/1) in [kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool](https://github.com/kisakibobo/TsengScans-AI-Manga-Translation-and-Writing-Tool)
-5. ❗️ Opened issue [#40](https://github.com/steve1316/uma-android-automation/issues/40) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. ❗️ Labeled issue [#30](https://github.com/steve1316/uma-android-automation/issues/30) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. ❗️ Assigned issue [#30](https://github.com/steve1316/uma-android-automation/issues/30) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. 🗣 Commented on [#29](https://github.com/steve1316/uma-android-automation/issues/29) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. ❗️ Closed issue [#44](https://github.com/steve1316/uma-android-automation/issues/44) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. 🗣 Commented on [#44](https://github.com/steve1316/uma-android-automation/issues/44) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
