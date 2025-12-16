@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2025 - To: 15 December 2025
+From: 09 December 2025 - To: 16 December 2025
 
-Python       17 hrs 17 mins  ███████████▒░░░░░░░░░░░░░   45.29 %
-Kotlin       9 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
-TypeScript   3 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-Docker       1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Lua          1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Kotlin       10 hrs 24 mins  ████████▓░░░░░░░░░░░░░░░░   34.46 %
+Python       8 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   28.97 %
+TypeScript   3 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+Docker       1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Lua          1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
 ```
 
 <!--END_SECTION:waka-->
