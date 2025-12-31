@@ -38,11 +38,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-JavaScript   6 mins          ███████████████████▒░░░░░   77.38 %
-Python       1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-Git          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
