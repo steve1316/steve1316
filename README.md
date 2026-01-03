@@ -38,9 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 02 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-No activity tracked
+Bash         2 hrs 49 mins   ████████████████████▒░░░░   80.95 %
+Python       17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Markdown     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+SSH Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Git          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
