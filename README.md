@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-Bash         2 hrs 49 mins   ████████████████████▒░░░░   80.95 %
-Python       17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-Markdown     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-SSH Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Git          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Bash         3 hrs 56 mins   ████████████▓░░░░░░░░░░░░   50.44 %
+Python       2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
+Docker       1 hr 20 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
+Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+SSH Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
