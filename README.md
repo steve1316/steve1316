@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-Bash         4 hrs 42 mins   ████████████░░░░░░░░░░░░░   47.49 %
-Python       2 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
-Docker       1 hr 56 mins    █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-Text         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Bash         4 hrs 43 mins   ██████████▓░░░░░░░░░░░░░░   42.35 %
+Python       2 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
+Docker       2 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+Kotlin       31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Text         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
