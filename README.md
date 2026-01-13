@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1440](https://github.com/Difegue/LANraragi/issues/1440) in [Difegue/LANraragi](https://github.com/Difegue/LANraragi)
-2. ❌ Merged PR [#1440](https://github.com/Difegue/LANraragi/pull/1440) in [Difegue/LANraragi](https://github.com/Difegue/LANraragi)
-3. 🗣 Commented on [#1440](https://github.com/Difegue/LANraragi/issues/1440) in [Difegue/LANraragi](https://github.com/Difegue/LANraragi)
-4. 💪 Opened PR [#1440](https://github.com/Difegue/LANraragi/pull/1440) in [Difegue/LANraragi](https://github.com/Difegue/LANraragi)
-5. ❌ Merged PR [#136](https://github.com/steve1316/uma-android-automation/pull/136) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. ❌ Merged PR [#24](https://github.com/steve1316/android-cv-automation-library/pull/24) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+2. ❌ Labeled PR [#24](https://github.com/steve1316/android-cv-automation-library/pull/24) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+3. 💪 Opened PR [#24](https://github.com/steve1316/android-cv-automation-library/pull/24) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+4. ❌ Assigned PR [#24](https://github.com/steve1316/android-cv-automation-library/pull/24) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+5. 🗣 Commented on [#1440](https://github.com/Difegue/LANraragi/issues/1440) in [Difegue/LANraragi](https://github.com/Difegue/LANraragi)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
