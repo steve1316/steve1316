@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Labeled issue [#166](https://github.com/steve1316/uma-android-automation/issues/166) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. ❗️ Assigned issue [#166](https://github.com/steve1316/uma-android-automation/issues/166) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. 🗣 Commented on [#165](https://github.com/steve1316/uma-android-automation/issues/165) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. ❗️ Labeled issue [#165](https://github.com/steve1316/uma-android-automation/issues/165) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. ❗️ Closed issue [#151](https://github.com/steve1316/uma-android-automation/issues/151) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. ❌ Merged PR [#168](https://github.com/steve1316/uma-android-automation/pull/168) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. ❌ Labeled PR [#168](https://github.com/steve1316/uma-android-automation/pull/168) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. 💪 Opened PR [#168](https://github.com/steve1316/uma-android-automation/pull/168) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. ❌ Assigned PR [#168](https://github.com/steve1316/uma-android-automation/pull/168) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. 🗣 Commented on [#143](https://github.com/steve1316/uma-android-automation/issues/143) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
