@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#40](https://github.com/steve1316/android-cv-automation-library/pull/40) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
-2. ❌ Labeled PR [#40](https://github.com/steve1316/android-cv-automation-library/pull/40) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
-3. 💪 Opened PR [#40](https://github.com/steve1316/android-cv-automation-library/pull/40) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
-4. ❌ Assigned PR [#40](https://github.com/steve1316/android-cv-automation-library/pull/40) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
-5. ❌ Merged PR [#238](https://github.com/steve1316/uma-android-automation/pull/238) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. ❗️ Labeled issue [#244](https://github.com/steve1316/uma-android-automation/issues/244) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. ❗️ Opened issue [#244](https://github.com/steve1316/uma-android-automation/issues/244) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. ❗️ Assigned issue [#244](https://github.com/steve1316/uma-android-automation/issues/244) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. ❗️ Labeled issue [#243](https://github.com/steve1316/uma-android-automation/issues/243) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. ❗️ Assigned issue [#243](https://github.com/steve1316/uma-android-automation/issues/243) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
