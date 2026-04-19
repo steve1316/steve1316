@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#278](https://github.com/steve1316/uma-android-automation/pull/278) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. ❌ Assigned PR [#278](https://github.com/steve1316/uma-android-automation/pull/278) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. 💪 Opened PR [#278](https://github.com/steve1316/uma-android-automation/pull/278) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. 🗣 Commented on [#260](https://github.com/steve1316/uma-android-automation/issues/260) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. ❗️ Closed issue [#260](https://github.com/steve1316/uma-android-automation/issues/260) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. ❌ Closed PR [#4](https://github.com/steve1316/chrono-ark-alternative-english-translations/pull/4) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
+2. 🗣 Commented on [#4](https://github.com/steve1316/chrono-ark-alternative-english-translations/issues/4) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
+3. ❌ Closed PR [#3](https://github.com/steve1316/chrono-ark-alternative-english-translations/pull/3) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
+4. 🗣 Commented on [#3](https://github.com/steve1316/chrono-ark-alternative-english-translations/issues/3) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
+5. 🗣 Commented on [#7](https://github.com/steve1316/chrono-ark-alternative-english-translations/issues/7) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
