@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/steve1316/chrono-ark-alternative-english-translations/pull/4) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
-2. 🗣 Commented on [#4](https://github.com/steve1316/chrono-ark-alternative-english-translations/issues/4) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
-3. ❌ Closed PR [#3](https://github.com/steve1316/chrono-ark-alternative-english-translations/pull/3) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
-4. 🗣 Commented on [#3](https://github.com/steve1316/chrono-ark-alternative-english-translations/issues/3) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
-5. 🗣 Commented on [#7](https://github.com/steve1316/chrono-ark-alternative-english-translations/issues/7) in [steve1316/chrono-ark-alternative-english-translations](https://github.com/steve1316/chrono-ark-alternative-english-translations)
+1. 🗣 Commented on [#279](https://github.com/steve1316/uma-android-automation/issues/279) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. 🗣 Commented on [#280](https://github.com/steve1316/uma-android-automation/issues/280) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. 🗣 Commented on [#277](https://github.com/steve1316/uma-android-automation/issues/277) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. ❌ Labeled PR [#277](https://github.com/steve1316/uma-android-automation/pull/277) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. ❌ Assigned PR [#277](https://github.com/steve1316/uma-android-automation/pull/277) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
