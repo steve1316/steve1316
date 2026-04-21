@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-C#           12 hrs 37 mins        ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
-Python       9 hrs 23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-Other        7 hrs 13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-Markdown     5 hrs 6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-TypeScript   3 hrs 48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+C#           7 hrs 43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+Python       7 hrs 39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+Other        6 hrs 46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Markdown     4 hrs 38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+TypeScript   3 hrs 48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
 ```
 
 <!--END_SECTION:waka-->
