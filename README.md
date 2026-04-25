@@ -38,13 +38,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2026 - To: 24 April 2026
+From: 18 April 2026 - To: 25 April 2026
 
-Kotlin       7 hrs 11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.46 %
-Other        5 hrs 59 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-Markdown     4 hrs 35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-C++          2 hrs 56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-TypeScript   2 hrs 50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Kotlin       7 hrs 11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+Other        5 hrs 37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+JavaScript   4 hrs 55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Markdown     3 hrs 25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+C++          3 hrs 4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
 ```
 
 <!--END_SECTION:waka-->
