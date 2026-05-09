@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](https://github.com/steve1316/chrono-ark-translator/pull/2) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
-2. ❌ Labeled PR [#2](https://github.com/steve1316/chrono-ark-translator/pull/2) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
-3. ❌ Assigned PR [#2](https://github.com/steve1316/chrono-ark-translator/pull/2) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
-4. 💪 Opened PR [#2](https://github.com/steve1316/chrono-ark-translator/pull/2) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
-5. ❌ Merged PR [#1](https://github.com/steve1316/chrono-ark-translator/pull/1) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
+1. ❌ Merged PR [#4](https://github.com/steve1316/chrono-ark-translator/pull/4) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
+2. ❌ Labeled PR [#4](https://github.com/steve1316/chrono-ark-translator/pull/4) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
+3. 💪 Opened PR [#4](https://github.com/steve1316/chrono-ark-translator/pull/4) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
+4. ❌ Assigned PR [#4](https://github.com/steve1316/chrono-ark-translator/pull/4) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
+5. ❌ Merged PR [#3](https://github.com/steve1316/chrono-ark-translator/pull/3) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
