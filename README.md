@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#6](https://github.com/steve1316/chrono-ark-translator/pull/6) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
-2. ❌ Labeled PR [#6](https://github.com/steve1316/chrono-ark-translator/pull/6) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
-3. 💪 Opened PR [#6](https://github.com/steve1316/chrono-ark-translator/pull/6) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
-4. ❌ Assigned PR [#6](https://github.com/steve1316/chrono-ark-translator/pull/6) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
-5. ❌ Merged PR [#320](https://github.com/steve1316/uma-android-automation/pull/320) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. ❌ Merged PR [#41](https://github.com/steve1316/android-cv-automation-library/pull/41) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+2. ❌ Labeled PR [#41](https://github.com/steve1316/android-cv-automation-library/pull/41) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+3. 💪 Opened PR [#41](https://github.com/steve1316/android-cv-automation-library/pull/41) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+4. ❌ Assigned PR [#41](https://github.com/steve1316/android-cv-automation-library/pull/41) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+5. ❌ Merged PR [#321](https://github.com/steve1316/uma-android-automation/pull/321) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
