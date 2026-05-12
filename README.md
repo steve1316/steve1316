@@ -26,11 +26,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#326](https://github.com/steve1316/uma-android-automation/issues/326) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. 🗣 Commented on [#326](https://github.com/steve1316/uma-android-automation/issues/326) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. ❌ Merged PR [#325](https://github.com/steve1316/uma-android-automation/pull/325) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. ❌ Labeled PR [#325](https://github.com/steve1316/uma-android-automation/pull/325) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. 💪 Opened PR [#325](https://github.com/steve1316/uma-android-automation/pull/325) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. ❌ Merged PR [#8](https://github.com/steve1316/chrono-ark-translator/pull/8) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
+2. ❌ Labeled PR [#8](https://github.com/steve1316/chrono-ark-translator/pull/8) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
+3. 💪 Opened PR [#8](https://github.com/steve1316/chrono-ark-translator/pull/8) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
+4. ❌ Assigned PR [#8](https://github.com/steve1316/chrono-ark-translator/pull/8) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
+5. ❌ Merged PR [#7](https://github.com/steve1316/chrono-ark-translator/pull/7) in [steve1316/chrono-ark-translator](https://github.com/steve1316/chrono-ark-translator)
 <!--END_SECTION:activity-->
 
 ## My GitHub Stats:
