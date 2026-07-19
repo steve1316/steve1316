@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/steve-tu-370ba219b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-8957E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio (coming soon)" />
+  <a href="https://steve1316.github.io"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=steve1316&label=Profile+views&color=58a6ff&style=for-the-badge" alt="Profile views" />
 </p>
 
