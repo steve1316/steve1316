@@ -1,7 +1,12 @@
+# Updates the "Recent GitHub Activity" list in README.md, between the
+# <!--START_SECTION:activity--> and <!--END_SECTION:activity--> markers.
+# Runs every 12 hours on a schedule, or on-demand via Actions -> Update README -> Run workflow.
+
 name: Update README
 
 on:
   schedule:
+    # Run every 12 hours
     - cron: '0 */12 * * *'
   workflow_dispatch:
 
@@ -15,6 +20,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@v0.3.6
+      - uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
