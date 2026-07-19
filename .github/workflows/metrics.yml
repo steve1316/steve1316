@@ -1,0 +1,50 @@
+# Generates metrics/github-metrics.svg via lowlighter/metrics and commits it back to the repo.
+# Setup: create a classic Personal Access Token (scopes: repo, read:user) and add it as a
+# repository secret named METRICS_TOKEN. Then run this workflow once (Actions -> Generate Metrics
+# -> Run workflow) so the SVG referenced by the README is generated.
+# Plugins reference: https://github.com/lowlighter/metrics/tree/master/source/plugins
+
+name: Generate Metrics
+
+on:
+  schedule:
+    # Run every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - '.github/workflows/metrics.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: steve1316
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Los_Angeles
+          config_twemoji: yes
+
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent.days: 14
+          plugin_languages_recent.load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_languages_ignored: HTML,CSS
+          plugin_languages_details: bytes-size, percentage
+
+          plugin_lines: yes
