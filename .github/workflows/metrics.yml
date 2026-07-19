@@ -1,4 +1,5 @@
-# Generates metrics/github-metrics.svg via lowlighter/metrics and commits it back to the repo.
+# Generates metrics/github-metrics.svg via the gh-metrics/metrics fork (a maintained continuation of
+# lowlighter/metrics, which is unmaintained since 2023) and commits it back to the repo.
 # Setup: create a classic Personal Access Token (scopes: repo, read:user) and add it as a
 # repository secret named METRICS_TOKEN. Then run this workflow once (Actions -> Generate Metrics
 # -> Run workflow) so the SVG referenced by the README is generated.
@@ -22,8 +23,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate GitHub metrics
-        uses: lowlighter/metrics@latest
+        # Pinned to a reviewed commit of the maintained fork. use_prebuilt_image: no forces a build
+        # from the fork's source (which patches the habits `payload.commits` crash) rather than the
+        # stale upstream prebuilt image.
+        uses: gh-metrics/metrics@4b1c3eb0b801b3fe1821352c4f5f9329d09f4ebf
         with:
+          use_prebuilt_image: no
           filename: metrics/github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: steve1316
@@ -32,9 +37,13 @@ jobs:
           config_timezone: America/Los_Angeles
           config_padding: 0, 137
 
-          # habits plugin intentionally disabled: GitHub's Events API dropped the `commits` array
-          # from PushEvent payloads, which crashes lowlighter/metrics habits (destructure of undefined).
-          # Re-enable only once upstream guards the missing field.
+          # habits: timing-based facts (most active day / hour) work from push timestamps. The
+          # patch-derived bits (indent style, avg line length) stay sparse because GitHub dropped
+          # `commits` from PushEvent payloads - the fork guards the missing field so it no longer crashes.
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
 
           plugin_languages: yes
           plugin_languages_colors: github
