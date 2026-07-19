@@ -31,6 +31,12 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
           config_padding: 0, 137
+          debug: yes
+          dryrun: yes
+
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_from: 200
 
           plugin_languages: yes
           plugin_languages_colors: github
