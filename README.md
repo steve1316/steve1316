@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/steve1316/steve1316/pull/1) in [steve1316/steve1316](https://github.com/steve1316/steve1316)
-2. ℹ️ Labeled PR [#1](https://github.com/steve1316/steve1316/pull/1) in [steve1316/steve1316](https://github.com/steve1316/steve1316)
-3. 💪 Opened PR [#1](https://github.com/steve1316/steve1316/pull/1) in [steve1316/steve1316](https://github.com/steve1316/steve1316)
-4. ℹ️ Assigned PR [#1](https://github.com/steve1316/steve1316/pull/1) in [steve1316/steve1316](https://github.com/steve1316/steve1316)
-5. 🎉 Merged PR [#410](https://github.com/steve1316/uma-android-automation/pull/410) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. 🎉 Merged PR [#17](https://github.com/steve1316/granblue-automation-statistics/pull/17) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+2. ℹ️ Labeled PR [#17](https://github.com/steve1316/granblue-automation-statistics/pull/17) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+3. 💪 Opened PR [#17](https://github.com/steve1316/granblue-automation-statistics/pull/17) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+4. ℹ️ Assigned PR [#17](https://github.com/steve1316/granblue-automation-statistics/pull/17) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+5. 🎉 Merged PR [#16](https://github.com/steve1316/granblue-automation-statistics/pull/16) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
 <!--END_SECTION:activity-->
 
 </details>
