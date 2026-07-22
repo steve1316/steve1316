@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/steve1316/granblue-automation-statistics/pull/20) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-2. 🔒 Closed issue [#9](https://github.com/steve1316/granblue-automation-statistics/issues/9) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-3. ℹ️ Labeled PR [#20](https://github.com/steve1316/granblue-automation-statistics/pull/20) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-4. 💪 Opened PR [#20](https://github.com/steve1316/granblue-automation-statistics/pull/20) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
-5. ℹ️ Assigned PR [#20](https://github.com/steve1316/granblue-automation-statistics/pull/20) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+1. 🚀 Published release [Support for new Dirt races](https://github.com/steve1316/uma-android-automation/releases/tag/v5.8.3) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. 🎉 Merged PR [#20](https://github.com/steve1316/granblue-automation-statistics/pull/20) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+3. 🔒 Closed issue [#9](https://github.com/steve1316/granblue-automation-statistics/issues/9) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+4. ℹ️ Labeled PR [#20](https://github.com/steve1316/granblue-automation-statistics/pull/20) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
+5. 💪 Opened PR [#20](https://github.com/steve1316/granblue-automation-statistics/pull/20) in [steve1316/granblue-automation-statistics](https://github.com/steve1316/granblue-automation-statistics)
 <!--END_SECTION:activity-->
 
 </details>
