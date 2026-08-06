@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Training Facility template fix](https://github.com/steve1316/uma-android-automation/releases/tag/v5.8.5) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. 🎉 Merged PR [#417](https://github.com/steve1316/uma-android-automation/pull/417) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. 🔒 Closed issue [#416](https://github.com/steve1316/uma-android-automation/issues/416) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. ℹ️ Labeled PR [#417](https://github.com/steve1316/uma-android-automation/pull/417) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. 💪 Opened PR [#417](https://github.com/steve1316/uma-android-automation/pull/417) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. 🚀 Published release [2.5.9](https://github.com/steve1316/android-cv-automation-library/releases/tag/2.5.9) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+2. 🎉 Merged PR [#46](https://github.com/steve1316/android-cv-automation-library/pull/46) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+3. ℹ️ Labeled PR [#46](https://github.com/steve1316/android-cv-automation-library/pull/46) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+4. 💪 Opened PR [#46](https://github.com/steve1316/android-cv-automation-library/pull/46) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+5. ℹ️ Assigned PR [#46](https://github.com/steve1316/android-cv-automation-library/pull/46) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
 <!--END_SECTION:activity-->
 
 </details>
