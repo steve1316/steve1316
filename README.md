@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Grand Live improvement and bug fixes](https://github.com/steve1316/uma-android-automation/releases/tag/v5.8.6) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. 🎉 Merged PR [#422](https://github.com/steve1316/uma-android-automation/pull/422) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. ℹ️ Labeled PR [#422](https://github.com/steve1316/uma-android-automation/pull/422) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. 💪 Opened PR [#422](https://github.com/steve1316/uma-android-automation/pull/422) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. ℹ️ Assigned PR [#422](https://github.com/steve1316/uma-android-automation/pull/422) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. 🗣 Commented on [#63](https://github.com/AliceJump/ok-gf2/pull/63#issuecomment-5337868030) in [AliceJump/ok-gf2](https://github.com/AliceJump/ok-gf2)
+2. 🎉 Merged PR [#2](https://github.com/steve1316/ok-gf2-english/pull/2) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+3. ℹ️ Labeled PR [#2](https://github.com/steve1316/ok-gf2-english/pull/2) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+4. 💪 Opened PR [#2](https://github.com/steve1316/ok-gf2-english/pull/2) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+5. ℹ️ Assigned PR [#2](https://github.com/steve1316/ok-gf2-english/pull/2) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
 <!--END_SECTION:activity-->
 
 </details>
