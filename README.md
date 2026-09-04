@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-2. ℹ️ Labeled PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-3. 💪 Opened PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-4. ℹ️ Assigned PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-5. 🗣 Commented on [#15](https://github.com/akioukun/Chaos-Zero-Nightmare-ASSet-Ripper/pull/15#issuecomment-5531365524) in [akioukun/Chaos-Zero-Nightmare-ASSet-Ripper](https://github.com/akioukun/Chaos-Zero-Nightmare-ASSet-Ripper)
+1. 🎉 Merged PR [#414](https://github.com/BlueArchiveArisHelper/BAAH/pull/414) in [BlueArchiveArisHelper/BAAH](https://github.com/BlueArchiveArisHelper/BAAH)
+2. 🎉 Merged PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+3. ℹ️ Labeled PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+4. 💪 Opened PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+5. ℹ️ Assigned PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
 <!--END_SECTION:activity-->
 
 </details>
