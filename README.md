@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#414](https://github.com/BlueArchiveArisHelper/BAAH/pull/414) in [BlueArchiveArisHelper/BAAH](https://github.com/BlueArchiveArisHelper/BAAH)
-2. 🎉 Merged PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-3. ℹ️ Labeled PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-4. 💪 Opened PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-5. ℹ️ Assigned PR [#10](https://github.com/steve1316/hub-czn-updated/pull/10) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+1. 🎉 Merged PR [#6](https://github.com/steve1316/ok-czn-english/pull/6) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+2. ℹ️ Labeled PR [#6](https://github.com/steve1316/ok-czn-english/pull/6) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+3. ℹ️ Labeled PR [#6](https://github.com/steve1316/ok-czn-english/pull/6) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+4. 💪 Opened PR [#6](https://github.com/steve1316/ok-czn-english/pull/6) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+5. ℹ️ Assigned PR [#6](https://github.com/steve1316/ok-czn-english/pull/6) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
 <!--END_SECTION:activity-->
 
 </details>
