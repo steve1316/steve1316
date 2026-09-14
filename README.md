@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#430](https://github.com/steve1316/uma-android-automation/pull/430) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. ℹ️ Labeled PR [#430](https://github.com/steve1316/uma-android-automation/pull/430) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. ℹ️ Labeled PR [#430](https://github.com/steve1316/uma-android-automation/pull/430) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. 💪 Opened PR [#430](https://github.com/steve1316/uma-android-automation/pull/430) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. ℹ️ Assigned PR [#430](https://github.com/steve1316/uma-android-automation/pull/430) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. 🎉 Merged PR [#19](https://github.com/steve1316/ok-gf2-english/pull/19) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+2. ℹ️ Labeled PR [#19](https://github.com/steve1316/ok-gf2-english/pull/19) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+3. 💪 Opened PR [#19](https://github.com/steve1316/ok-gf2-english/pull/19) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+4. ℹ️ Assigned PR [#19](https://github.com/steve1316/ok-gf2-english/pull/19) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+5. 🎉 Merged PR [#13](https://github.com/steve1316/ok-czn-english/pull/13) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
 <!--END_SECTION:activity-->
 
 </details>
