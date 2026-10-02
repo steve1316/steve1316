@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/steve1316/totalwar-modding/pull/16) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-2. ℹ️ Labeled PR [#16](https://github.com/steve1316/totalwar-modding/pull/16) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-3. 💪 Opened PR [#16](https://github.com/steve1316/totalwar-modding/pull/16) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-4. ℹ️ Assigned PR [#16](https://github.com/steve1316/totalwar-modding/pull/16) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-5. 🎉 Merged PR [#17](https://github.com/cznrip/Chaos-Zero-Nightmare-ASSet-Ripper/pull/17) in [cznrip/Chaos-Zero-Nightmare-ASSet-Ripper](https://github.com/cznrip/Chaos-Zero-Nightmare-ASSet-Ripper)
+1. 🎉 Merged PR [#15](https://github.com/steve1316/hub-czn-updated/pull/15) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+2. ℹ️ Assigned PR [#15](https://github.com/steve1316/hub-czn-updated/pull/15) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+3. 💪 Opened PR [#15](https://github.com/steve1316/hub-czn-updated/pull/15) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+4. ℹ️ Labeled PR [#15](https://github.com/steve1316/hub-czn-updated/pull/15) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+5. 🎉 Merged PR [#14](https://github.com/steve1316/hub-czn-updated/pull/14) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
 <!--END_SECTION:activity-->
 
 </details>
