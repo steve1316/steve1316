@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/cznrip/Chaos-Zero-Nightmare-ASSet-Ripper/pull/18) in [cznrip/Chaos-Zero-Nightmare-ASSet-Ripper](https://github.com/cznrip/Chaos-Zero-Nightmare-ASSet-Ripper)
-2. ℹ️ Labeled PR [#20](https://github.com/steve1316/totalwar-modding/pull/20) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-3. 🎉 Merged PR [#20](https://github.com/steve1316/totalwar-modding/pull/20) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-4. 💪 Opened PR [#20](https://github.com/steve1316/totalwar-modding/pull/20) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-5. ℹ️ Assigned PR [#20](https://github.com/steve1316/totalwar-modding/pull/20) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+1. 🗣 Commented on [#465](https://github.com/chadvandy/mct_wh3/pull/465#issuecomment-5962648218) in [chadvandy/mct_wh3](https://github.com/chadvandy/mct_wh3)
+2. ❌ Closed PR [#465](https://github.com/chadvandy/mct_wh3/pull/465) in [chadvandy/mct_wh3](https://github.com/chadvandy/mct_wh3)
+3. 💪 Opened PR [#467](https://github.com/chadvandy/mct_wh3/pull/467) in [chadvandy/mct_wh3](https://github.com/chadvandy/mct_wh3)
+4. 💪 Opened PR [#466](https://github.com/chadvandy/mct_wh3/pull/466) in [chadvandy/mct_wh3](https://github.com/chadvandy/mct_wh3)
+5. 🎉 Merged PR [#18](https://github.com/cznrip/Chaos-Zero-Nightmare-ASSet-Ripper/pull/18) in [cznrip/Chaos-Zero-Nightmare-ASSet-Ripper](https://github.com/cznrip/Chaos-Zero-Nightmare-ASSet-Ripper)
 <!--END_SECTION:activity-->
 
 </details>
