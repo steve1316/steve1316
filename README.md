@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.7.0](https://github.com/steve1316/android-cv-automation-library/releases/tag/2.7.0) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
-2. 🎉 Merged PR [#47](https://github.com/steve1316/android-cv-automation-library/pull/47) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
-3. ℹ️ Labeled PR [#47](https://github.com/steve1316/android-cv-automation-library/pull/47) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
-4. ℹ️ Assigned PR [#47](https://github.com/steve1316/android-cv-automation-library/pull/47) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
-5. 💪 Opened PR [#47](https://github.com/steve1316/android-cv-automation-library/pull/47) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+1. 🎉 Merged PR [#21](https://github.com/steve1316/totalwar-modding/pull/21) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+2. ℹ️ Labeled PR [#21](https://github.com/steve1316/totalwar-modding/pull/21) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+3. 💪 Opened PR [#21](https://github.com/steve1316/totalwar-modding/pull/21) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+4. ℹ️ Assigned PR [#21](https://github.com/steve1316/totalwar-modding/pull/21) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+5. 🎉 Merged PR [#435](https://github.com/steve1316/uma-android-automation/pull/435) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 </details>
