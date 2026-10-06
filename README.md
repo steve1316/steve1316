@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/steve1316/totalwar-modding/pull/21) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-2. ℹ️ Labeled PR [#21](https://github.com/steve1316/totalwar-modding/pull/21) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-3. 💪 Opened PR [#21](https://github.com/steve1316/totalwar-modding/pull/21) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-4. ℹ️ Assigned PR [#21](https://github.com/steve1316/totalwar-modding/pull/21) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-5. 🎉 Merged PR [#435](https://github.com/steve1316/uma-android-automation/pull/435) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. 🎉 Merged PR [#22](https://github.com/steve1316/totalwar-modding/pull/22) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+2. 🗣 Commented on [#22](https://github.com/steve1316/totalwar-modding/pull/22#issuecomment-6002075083) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+3. ℹ️ Labeled PR [#22](https://github.com/steve1316/totalwar-modding/pull/22) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+4. 💪 Opened PR [#22](https://github.com/steve1316/totalwar-modding/pull/22) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+5. ℹ️ Assigned PR [#22](https://github.com/steve1316/totalwar-modding/pull/22) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
 <!--END_SECTION:activity-->
 
 </details>
