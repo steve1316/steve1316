@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/steve1316/ok-czn-english/pull/27) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-2. ℹ️ Labeled PR [#27](https://github.com/steve1316/ok-czn-english/pull/27) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-3. 💪 Opened PR [#27](https://github.com/steve1316/ok-czn-english/pull/27) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-4. ℹ️ Assigned PR [#27](https://github.com/steve1316/ok-czn-english/pull/27) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-5. 🎉 Merged PR [#33](https://github.com/steve1316/totalwar-modding/pull/33) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+1. 🎉 Merged PR [#36](https://github.com/steve1316/totalwar-modding/pull/36) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+2. ℹ️ Labeled PR [#36](https://github.com/steve1316/totalwar-modding/pull/36) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+3. 💪 Opened PR [#36](https://github.com/steve1316/totalwar-modding/pull/36) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+4. ℹ️ Assigned PR [#36](https://github.com/steve1316/totalwar-modding/pull/36) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+5. 🎉 Merged PR [#35](https://github.com/steve1316/totalwar-modding/pull/35) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
 <!--END_SECTION:activity-->
 
 </details>
