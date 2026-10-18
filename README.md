@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/steve1316/gfl-archive/pull/2) in [steve1316/gfl-archive](https://github.com/steve1316/gfl-archive)
-2. ℹ️ Labeled PR [#2](https://github.com/steve1316/gfl-archive/pull/2) in [steve1316/gfl-archive](https://github.com/steve1316/gfl-archive)
-3. 💪 Opened PR [#2](https://github.com/steve1316/gfl-archive/pull/2) in [steve1316/gfl-archive](https://github.com/steve1316/gfl-archive)
-4. ℹ️ Assigned PR [#2](https://github.com/steve1316/gfl-archive/pull/2) in [steve1316/gfl-archive](https://github.com/steve1316/gfl-archive)
-5. 🎉 Merged PR [#2](https://github.com/steve1316/ak-archive/pull/2) in [steve1316/ak-archive](https://github.com/steve1316/ak-archive)
+1. 🎉 Merged PR [#188](https://github.com/Shazbot/WH3-Mod-Manager/pull/188) in [Shazbot/WH3-Mod-Manager](https://github.com/Shazbot/WH3-Mod-Manager)
+2. 🎉 Merged PR [#185](https://github.com/Shazbot/WH3-Mod-Manager/pull/185) in [Shazbot/WH3-Mod-Manager](https://github.com/Shazbot/WH3-Mod-Manager)
+3. 🎉 Merged PR [#2](https://github.com/steve1316/gfl-archive/pull/2) in [steve1316/gfl-archive](https://github.com/steve1316/gfl-archive)
+4. ℹ️ Labeled PR [#2](https://github.com/steve1316/gfl-archive/pull/2) in [steve1316/gfl-archive](https://github.com/steve1316/gfl-archive)
+5. 💪 Opened PR [#2](https://github.com/steve1316/gfl-archive/pull/2) in [steve1316/gfl-archive](https://github.com/steve1316/gfl-archive)
 <!--END_SECTION:activity-->
 
 </details>
