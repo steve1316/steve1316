@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#452](https://github.com/steve1316/uma-android-automation/pull/452) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. 💪 Opened PR [#452](https://github.com/steve1316/uma-android-automation/pull/452) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. ℹ️ Labeled PR [#452](https://github.com/steve1316/uma-android-automation/pull/452) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. ℹ️ Assigned PR [#452](https://github.com/steve1316/uma-android-automation/pull/452) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. 🎉 Merged PR [#54](https://github.com/steve1316/totalwar-modding/pull/54) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+1. 🎉 Merged PR [#57](https://github.com/steve1316/android-cv-automation-library/pull/57) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+2. 🚀 Published release [3.2.1](https://github.com/steve1316/android-cv-automation-library/releases/tag/3.2.1) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+3. 🎉 Merged PR [#453](https://github.com/steve1316/uma-android-automation/pull/453) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. ℹ️ Assigned PR [#57](https://github.com/steve1316/android-cv-automation-library/pull/57) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+5. ℹ️ Labeled PR [#57](https://github.com/steve1316/android-cv-automation-library/pull/57) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
 <!--END_SECTION:activity-->
 
 </details>
