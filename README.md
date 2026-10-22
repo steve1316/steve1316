@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/steve1316/totalwar-modding/pull/53) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-2. ℹ️ Assigned PR [#53](https://github.com/steve1316/totalwar-modding/pull/53) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-3. ℹ️ Labeled PR [#53](https://github.com/steve1316/totalwar-modding/pull/53) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-4. 💪 Opened PR [#53](https://github.com/steve1316/totalwar-modding/pull/53) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
-5. 🎉 Merged PR [#52](https://github.com/steve1316/totalwar-modding/pull/52) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+1. 🎉 Merged PR [#452](https://github.com/steve1316/uma-android-automation/pull/452) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. 💪 Opened PR [#452](https://github.com/steve1316/uma-android-automation/pull/452) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. ℹ️ Labeled PR [#452](https://github.com/steve1316/uma-android-automation/pull/452) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. ℹ️ Assigned PR [#452](https://github.com/steve1316/uma-android-automation/pull/452) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. 🎉 Merged PR [#54](https://github.com/steve1316/totalwar-modding/pull/54) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
 <!--END_SECTION:activity-->
 
 </details>
