@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Auto Career bug fixes](https://github.com/steve1316/uma-android-automation/releases/tag/v5.9.1) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. 🗣 Commented on [#191](https://github.com/Shazbot/WH3-Mod-Manager/pull/191#issuecomment-6372000833) in [Shazbot/WH3-Mod-Manager](https://github.com/Shazbot/WH3-Mod-Manager)
-3. 💪 Opened PR [#191](https://github.com/Shazbot/WH3-Mod-Manager/pull/191) in [Shazbot/WH3-Mod-Manager](https://github.com/Shazbot/WH3-Mod-Manager)
-4. 🎉 Merged PR [#459](https://github.com/steve1316/uma-android-automation/pull/459) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. 🎉 Merged PR [#58](https://github.com/steve1316/android-cv-automation-library/pull/58) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+1. 🎉 Merged PR [#58](https://github.com/steve1316/totalwar-modding/pull/58) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+2. ℹ️ Labeled PR [#58](https://github.com/steve1316/totalwar-modding/pull/58) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+3. 💪 Opened PR [#58](https://github.com/steve1316/totalwar-modding/pull/58) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+4. ℹ️ Assigned PR [#58](https://github.com/steve1316/totalwar-modding/pull/58) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+5. 🎉 Merged PR [#57](https://github.com/steve1316/totalwar-modding/pull/57) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
 <!--END_SECTION:activity-->
 
 </details>
