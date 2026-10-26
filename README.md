@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/steve1316/ok-czn-english/pull/35) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-2. ℹ️ Labeled PR [#35](https://github.com/steve1316/ok-czn-english/pull/35) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-3. 💪 Opened PR [#35](https://github.com/steve1316/ok-czn-english/pull/35) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-4. ℹ️ Assigned PR [#35](https://github.com/steve1316/ok-czn-english/pull/35) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-5. 🎉 Merged PR [#21](https://github.com/steve1316/hub-czn-updated/pull/21) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+1. 🎉 Merged PR [#35](https://github.com/steve1316/hub-czn-updated/pull/35) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+2. ℹ️ Labeled PR [#35](https://github.com/steve1316/hub-czn-updated/pull/35) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+3. ℹ️ Assigned PR [#35](https://github.com/steve1316/hub-czn-updated/pull/35) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+4. 💪 Opened PR [#35](https://github.com/steve1316/hub-czn-updated/pull/35) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+5. 🎉 Merged PR [#34](https://github.com/steve1316/hub-czn-updated/pull/34) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
 <!--END_SECTION:activity-->
 
 </details>
