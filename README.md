@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/steve1316/hub-czn-updated/pull/35) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-2. ℹ️ Labeled PR [#35](https://github.com/steve1316/hub-czn-updated/pull/35) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-3. ℹ️ Assigned PR [#35](https://github.com/steve1316/hub-czn-updated/pull/35) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-4. 💪 Opened PR [#35](https://github.com/steve1316/hub-czn-updated/pull/35) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
-5. 🎉 Merged PR [#34](https://github.com/steve1316/hub-czn-updated/pull/34) in [steve1316/hub-czn-updated](https://github.com/steve1316/hub-czn-updated)
+1. 🎉 Merged PR [#23](https://github.com/steve1316/ok-gf2-english/pull/23) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+2. ℹ️ Labeled PR [#23](https://github.com/steve1316/ok-gf2-english/pull/23) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+3. ℹ️ Labeled PR [#23](https://github.com/steve1316/ok-gf2-english/pull/23) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+4. 💪 Opened PR [#23](https://github.com/steve1316/ok-gf2-english/pull/23) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
+5. ℹ️ Assigned PR [#23](https://github.com/steve1316/ok-gf2-english/pull/23) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
 <!--END_SECTION:activity-->
 
 </details>
