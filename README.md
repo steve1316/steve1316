@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/steve1316/ok-czn-english/pull/44) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-2. ℹ️ Labeled PR [#44](https://github.com/steve1316/ok-czn-english/pull/44) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-3. ℹ️ Labeled PR [#44](https://github.com/steve1316/ok-czn-english/pull/44) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-4. 💪 Opened PR [#44](https://github.com/steve1316/ok-czn-english/pull/44) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-5. ℹ️ Assigned PR [#44](https://github.com/steve1316/ok-czn-english/pull/44) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+1. 🗣 Commented on [#7](https://github.com/baoxin1100/ok-kes/issues/7#issuecomment-6490656220) in [baoxin1100/ok-kes](https://github.com/baoxin1100/ok-kes)
+2. 🗣 Commented on [#13](https://github.com/baoxin1100/ok-kes/issues/13#issuecomment-6490634265) in [baoxin1100/ok-kes](https://github.com/baoxin1100/ok-kes)
+3. 🎉 Merged PR [#46](https://github.com/steve1316/ok-czn-english/pull/46) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+4. ℹ️ Labeled PR [#46](https://github.com/steve1316/ok-czn-english/pull/46) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+5. ℹ️ Labeled PR [#46](https://github.com/steve1316/ok-czn-english/pull/46) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
 <!--END_SECTION:activity-->
 
 </details>
