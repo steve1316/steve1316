@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#464](https://github.com/steve1316/uma-android-automation/pull/464) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. ℹ️ Labeled PR [#464](https://github.com/steve1316/uma-android-automation/pull/464) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. 💪 Opened PR [#464](https://github.com/steve1316/uma-android-automation/pull/464) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. ℹ️ Assigned PR [#464](https://github.com/steve1316/uma-android-automation/pull/464) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. 🎉 Merged PR [#60](https://github.com/steve1316/totalwar-modding/pull/60) in [steve1316/totalwar-modding](https://github.com/steve1316/totalwar-modding)
+1. 🚀 Published release [Make Trackblazer a bit faster](https://github.com/steve1316/uma-android-automation/releases/tag/v5.9.2) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. 🎉 Merged PR [#465](https://github.com/steve1316/uma-android-automation/pull/465) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. ℹ️ Labeled PR [#465](https://github.com/steve1316/uma-android-automation/pull/465) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. 💪 Opened PR [#465](https://github.com/steve1316/uma-android-automation/pull/465) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. ℹ️ Assigned PR [#465](https://github.com/steve1316/uma-android-automation/pull/465) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 </details>
