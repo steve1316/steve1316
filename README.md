@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Make Trackblazer a bit faster](https://github.com/steve1316/uma-android-automation/releases/tag/v5.9.2) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. 🎉 Merged PR [#465](https://github.com/steve1316/uma-android-automation/pull/465) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. ℹ️ Labeled PR [#465](https://github.com/steve1316/uma-android-automation/pull/465) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. 💪 Opened PR [#465](https://github.com/steve1316/uma-android-automation/pull/465) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. ℹ️ Assigned PR [#465](https://github.com/steve1316/uma-android-automation/pull/465) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. 🎉 Merged PR [#50](https://github.com/steve1316/ok-czn-english/pull/50) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+2. ℹ️ Labeled PR [#50](https://github.com/steve1316/ok-czn-english/pull/50) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+3. 💪 Opened PR [#50](https://github.com/steve1316/ok-czn-english/pull/50) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+4. ℹ️ Assigned PR [#50](https://github.com/steve1316/ok-czn-english/pull/50) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+5. 🚀 Published release [Make Trackblazer a bit faster](https://github.com/steve1316/uma-android-automation/releases/tag/v5.9.2) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 </details>
