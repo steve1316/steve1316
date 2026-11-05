@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#467](https://github.com/chadvandy/mct_wh3/pull/467) in [chadvandy/mct_wh3](https://github.com/chadvandy/mct_wh3)
-2. ℹ️ Labeled PR [#474](https://github.com/steve1316/uma-android-automation/pull/474) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. ℹ️ Labeled PR [#474](https://github.com/steve1316/uma-android-automation/pull/474) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. 💪 Opened PR [#474](https://github.com/steve1316/uma-android-automation/pull/474) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. ℹ️ Assigned PR [#474](https://github.com/steve1316/uma-android-automation/pull/474) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. 🗣 Commented on [#435](https://github.com/BlueArchiveArisHelper/BAAH/pull/435#issuecomment-6647150517) in [BlueArchiveArisHelper/BAAH](https://github.com/BlueArchiveArisHelper/BAAH)
+2. 💪 Opened PR [#435](https://github.com/BlueArchiveArisHelper/BAAH/pull/435) in [BlueArchiveArisHelper/BAAH](https://github.com/BlueArchiveArisHelper/BAAH)
+3. 🎉 Merged PR [#467](https://github.com/chadvandy/mct_wh3/pull/467) in [chadvandy/mct_wh3](https://github.com/chadvandy/mct_wh3)
+4. ℹ️ Labeled PR [#474](https://github.com/steve1316/uma-android-automation/pull/474) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. ℹ️ Labeled PR [#474](https://github.com/steve1316/uma-android-automation/pull/474) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 </details>
