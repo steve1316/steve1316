@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#509](https://github.com/meizhong986/WhisperJAV/pull/509) in [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV)
-2. 💪 Opened PR [#508](https://github.com/meizhong986/WhisperJAV/pull/508) in [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV)
-3. 💪 Opened PR [#507](https://github.com/meizhong986/WhisperJAV/pull/507) in [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV)
-4. 💪 Opened PR [#506](https://github.com/meizhong986/WhisperJAV/pull/506) in [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV)
-5. 🗣 Commented on [#18](https://github.com/baoxin1100/ok-kes/issues/18#issuecomment-6755264046) in [baoxin1100/ok-kes](https://github.com/baoxin1100/ok-kes)
+1. 🎉 Merged PR [#477](https://github.com/steve1316/uma-android-automation/pull/477) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. ℹ️ Labeled PR [#477](https://github.com/steve1316/uma-android-automation/pull/477) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. 💪 Opened PR [#477](https://github.com/steve1316/uma-android-automation/pull/477) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. ℹ️ Assigned PR [#477](https://github.com/steve1316/uma-android-automation/pull/477) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. 🚀 Published release [3.2.3](https://github.com/steve1316/android-cv-automation-library/releases/tag/3.2.3) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
 <!--END_SECTION:activity-->
 
 </details>
