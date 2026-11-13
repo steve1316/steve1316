@@ -124,11 +124,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#477](https://github.com/steve1316/uma-android-automation/pull/477) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. ℹ️ Labeled PR [#477](https://github.com/steve1316/uma-android-automation/pull/477) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. 💪 Opened PR [#477](https://github.com/steve1316/uma-android-automation/pull/477) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. ℹ️ Assigned PR [#477](https://github.com/steve1316/uma-android-automation/pull/477) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. 🚀 Published release [3.2.3](https://github.com/steve1316/android-cv-automation-library/releases/tag/3.2.3) in [steve1316/android-cv-automation-library](https://github.com/steve1316/android-cv-automation-library)
+1. 🎉 Merged PR [#63](https://github.com/steve1316/ok-czn-english/pull/63) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+2. ℹ️ Labeled PR [#63](https://github.com/steve1316/ok-czn-english/pull/63) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+3. 💪 Opened PR [#63](https://github.com/steve1316/ok-czn-english/pull/63) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+4. ℹ️ Assigned PR [#63](https://github.com/steve1316/ok-czn-english/pull/63) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+5. 🎉 Merged PR [#62](https://github.com/steve1316/ok-czn-english/pull/62) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
 <!--END_SECTION:activity-->
 
 </details>
