@@ -76,7 +76,7 @@
 </table>
 
 <details>
-  <summary><strong>&#128193; More projects</strong></summary>
+  <summary><strong>&#128193; More Projects</strong></summary>
   <br/>
   <ul>
     <li><a href="https://github.com/steve1316/granblue-automation-android">Granblue Automation (Android)</a> - Kotlin port of the Granblue Fantasy automation engine with a React Native UI. It takes screenshots through MediaProjection, matches templates with OpenCV and taps through the Accessibility Service, covering 12 game modes with Discord status alerts across more than 90 releases.</li>
