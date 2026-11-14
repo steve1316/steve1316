@@ -23,11 +23,13 @@
     <td width="50%" valign="top">
       <strong>&#11088; <a href="https://github.com/steve1316/uma-android-automation">Uma Android Automation</a></strong>
       <br/><br/>
-      Full-stack Android app that plays <em>Uma Musume</em> end-to-end - a React Native (Expo) TypeScript UI driving a Kotlin + OpenCV vision engine, fed by a Python data pipeline.
+      Full-stack Android app that plays <em>Uma Musume</em> end-to-end - a React Native (Expo) TypeScript UI driving a Kotlin + OpenCV/YOLOv8 vision engine, fed by a Python data pipeline. It also ships an on-device RAG docs chatbot (llama.rn).
       <br/><br/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" />
+      <img src="https://img.shields.io/badge/On--device_RAG-8957E5?style=flat-square" />
       <br/><br/>
       <img src="https://img.shields.io/github/stars/steve1316/uma-android-automation?style=flat&labelColor=161b22&color=58a6ff" alt="stars" />
       <img src="https://img.shields.io/github/forks/steve1316/uma-android-automation?style=flat&labelColor=161b22&color=8b949e" alt="forks" />
@@ -95,8 +97,15 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </td></tr>
+  <tr><td><strong>AI / LLM</strong></td><td>
+    <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+    <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAG-8957E5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/llama.rn-4B5563?style=for-the-badge" />
+  </td></tr>
   <tr><td><strong>Frontend</strong></td><td>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -110,11 +119,15 @@
   <tr><td><strong>CV / Automation</strong></td><td>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
     <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
   </td></tr>
   <tr><td><strong>Tooling</strong></td><td>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   </td></tr>
 </table>
 
