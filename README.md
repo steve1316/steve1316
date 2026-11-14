@@ -23,7 +23,7 @@
     <td width="50%" valign="top">
       <strong>&#11088; <a href="https://github.com/steve1316/uma-android-automation">Uma Android Automation</a></strong>
       <br/><br/>
-      Full-stack Android app that plays <em>Uma Musume</em> end-to-end &mdash; a React Native (Expo) TypeScript UI driving a Kotlin + OpenCV vision engine, fed by a Python data pipeline.
+      Full-stack Android app that plays <em>Uma Musume</em> end-to-end - a React Native (Expo) TypeScript UI driving a Kotlin + OpenCV vision engine, fed by a Python data pipeline.
       <br/><br/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
@@ -35,7 +35,7 @@
     <td width="50%" valign="top">
       <strong>&#129513; <a href="https://github.com/steve1316/android-cv-automation-library">Android CV Automation Library</a></strong>
       <br/><br/>
-      The backend engine my apps share &mdash; a Kotlin computer-vision library (OpenCV template-matching, OCR, device I/O) published to JitPack so any project can build on it.
+      The backend engine my apps share - a Kotlin computer-vision library (OpenCV template-matching, OCR, device I/O) published to JitPack so any project can build on it.
       <br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -49,7 +49,7 @@
     <td width="50%" valign="top">
       <strong>&#128200; <a href="https://github.com/steve1316/granblue-automation-statistics">Granblue Automation Statistics</a></strong>
       <br/><br/>
-      Full-stack MERN dashboard &mdash; React + MUI + Chart.js front end over a Node/Express + MongoDB API (JWT auth, Dockerized) &mdash; turning opt-in community run data into interactive charts.
+      Full-stack MERN dashboard - React + MUI + Chart.js front end over a Node/Express + MongoDB API (JWT auth, Dockerized) - turning opt-in community run data into interactive charts.
       <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -61,7 +61,7 @@
     <td width="50%" valign="top">
       <strong>&#127942; <a href="https://github.com/steve1316/granblue-automation-pyautogui">Granblue Automation</a></strong>
       <br/><br/>
-      Where it started, and my most-starred repo &mdash; a full-stack desktop app pairing a Tauri + React (TypeScript) GUI with a Python + OpenCV automation engine for scriptable game workflows.
+      Where it started, and my most-starred repo - a full-stack desktop app pairing a Tauri + React (TypeScript) GUI with a Python + OpenCV automation engine for scriptable game workflows.
       <br/><br/>
       <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -77,12 +77,12 @@
   <summary><strong>&#128193; More projects</strong></summary>
   <br/>
   <ul>
-    <li><a href="https://github.com/steve1316/granblue-automation-android">Granblue Automation (Android)</a> &mdash; Kotlin port of the Granblue automation engine.</li>
-    <li><a href="https://github.com/steve1316/android-cv-bot-template">Android CV Bot Template</a> &mdash; starter template for OpenCV template-matching bots.</li>
-    <li><a href="https://github.com/steve1316/chrono-ark-translator">Chrono Ark Translator</a> &mdash; full-stack tool that translates Steam Workshop mods (Python + web UI).</li>
-    <li><a href="https://github.com/steve1316/uma-android-training-helper">Uma Training Helper</a> &mdash; OCR helper recommending training-event choices.</li>
-    <li><a href="https://github.com/steve1316/genshin-inventory-scanner-android">Genshin Inventory Scanner</a> &mdash; OCR inventory export to GOOD format.</li>
-    <li><a href="https://github.com/steve1316/masterduel-android-decklist-importer">Master Duel Decklist Importer</a> &mdash; automates deck imports for Yu-Gi-Oh! Master Duel.</li>
+    <li><a href="https://github.com/steve1316/granblue-automation-android">Granblue Automation (Android)</a> - Kotlin port of the Granblue automation engine.</li>
+    <li><a href="https://github.com/steve1316/android-cv-bot-template">Android CV Bot Template</a> - starter template for OpenCV template-matching bots.</li>
+    <li><a href="https://github.com/steve1316/chrono-ark-translator">Chrono Ark Translator</a> - full-stack tool that translates Steam Workshop mods (Python + web UI).</li>
+    <li><a href="https://github.com/steve1316/uma-android-training-helper">Uma Training Helper</a> - OCR helper recommending training-event choices.</li>
+    <li><a href="https://github.com/steve1316/genshin-inventory-scanner-android">Genshin Inventory Scanner</a> - OCR inventory export to GOOD format.</li>
+    <li><a href="https://github.com/steve1316/masterduel-android-decklist-importer">Master Duel Decklist Importer</a> - automates deck imports for Yu-Gi-Oh! Master Duel.</li>
   </ul>
 </details>
 
