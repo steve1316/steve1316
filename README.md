@@ -63,7 +63,7 @@
     <td width="50%" valign="top">
       <strong>&#127942; <a href="https://github.com/steve1316/granblue-automation-pyautogui">Granblue Automation</a></strong>
       <br/><br/>
-      Where it started, and my most-starred repo - a full-stack desktop app pairing a Tauri + React (TypeScript) GUI with a Python + OpenCV automation engine for scriptable game workflows.
+      Where it started - a full-stack desktop app pairing a Tauri + React (TypeScript) GUI with a Python + OpenCV automation engine for scriptable game workflows.
       <br/><br/>
       <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
