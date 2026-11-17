@@ -144,11 +144,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/steve1316/ok-czn-english/pull/73) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-2. ℹ️ Labeled PR [#73](https://github.com/steve1316/ok-czn-english/pull/73) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-3. 💪 Opened PR [#73](https://github.com/steve1316/ok-czn-english/pull/73) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-4. ℹ️ Assigned PR [#73](https://github.com/steve1316/ok-czn-english/pull/73) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
-5. 🎉 Merged PR [#72](https://github.com/steve1316/ok-czn-english/pull/72) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+1. ℹ️ Assigned PR [#472](https://github.com/steve1316/uma-android-automation/pull/472) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. ℹ️ Assigned PR [#471](https://github.com/steve1316/uma-android-automation/pull/471) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+3. ℹ️ Labeled PR [#471](https://github.com/steve1316/uma-android-automation/pull/471) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+4. ℹ️ Labeled PR [#472](https://github.com/steve1316/uma-android-automation/pull/472) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+5. ℹ️ Unassigned PR [#472](https://github.com/steve1316/uma-android-automation/pull/472) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
 <!--END_SECTION:activity-->
 
 </details>
