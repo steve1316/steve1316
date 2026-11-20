@@ -144,11 +144,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#485](https://github.com/steve1316/uma-android-automation/pull/485) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-2. ℹ️ Assigned PR [#485](https://github.com/steve1316/uma-android-automation/pull/485) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-3. 🗣 Commented on [#484](https://github.com/steve1316/uma-android-automation/pull/484#issuecomment-7002385306) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-4. ℹ️ Labeled PR [#484](https://github.com/steve1316/uma-android-automation/pull/484) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
-5. ℹ️ Assigned PR [#484](https://github.com/steve1316/uma-android-automation/pull/484) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+1. 🚀 Published release [Tons of bug fixes](https://github.com/steve1316/uma-android-automation/releases/tag/v5.9.3) in [steve1316/uma-android-automation](https://github.com/steve1316/uma-android-automation)
+2. 🎉 Merged PR [#83](https://github.com/steve1316/ok-czn-english/pull/83) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+3. ℹ️ Labeled PR [#83](https://github.com/steve1316/ok-czn-english/pull/83) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+4. 💪 Opened PR [#83](https://github.com/steve1316/ok-czn-english/pull/83) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+5. ℹ️ Assigned PR [#83](https://github.com/steve1316/ok-czn-english/pull/83) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
 <!--END_SECTION:activity-->
 
 </details>
