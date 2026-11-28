@@ -144,11 +144,11 @@
   <summary><strong>&#9889; Recent GitHub Activity</strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/steve1316/ok-gf2-english/pull/34) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
-2. ℹ️ Labeled PR [#34](https://github.com/steve1316/ok-gf2-english/pull/34) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
-3. 💪 Opened PR [#34](https://github.com/steve1316/ok-gf2-english/pull/34) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
-4. ℹ️ Assigned PR [#34](https://github.com/steve1316/ok-gf2-english/pull/34) in [steve1316/ok-gf2-english](https://github.com/steve1316/ok-gf2-english)
-5. 🗣 Commented on [#27](https://github.com/miroslavdanutalexandru-alt/Resistance2Port/issues/27#issuecomment-7213079269) in [miroslavdanutalexandru-alt/Resistance2Port](https://github.com/miroslavdanutalexandru-alt/Resistance2Port)
+1. 🎉 Merged PR [#97](https://github.com/steve1316/ok-czn-english/pull/97) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+2. ℹ️ Labeled PR [#97](https://github.com/steve1316/ok-czn-english/pull/97) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+3. ℹ️ Labeled PR [#97](https://github.com/steve1316/ok-czn-english/pull/97) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+4. 💪 Opened PR [#97](https://github.com/steve1316/ok-czn-english/pull/97) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
+5. ℹ️ Assigned PR [#97](https://github.com/steve1316/ok-czn-english/pull/97) in [steve1316/ok-czn-english](https://github.com/steve1316/ok-czn-english)
 <!--END_SECTION:activity-->
 
 </details>
